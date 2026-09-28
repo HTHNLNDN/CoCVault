@@ -1,5 +1,6 @@
 ---
 type: person
+state: dead
 aliases: ["Gibson", "Maxwell", "Maxton Gibson"]
 status: "Dead (II-05)"
 first_seen: "[[II-05 Father Felix]]"
@@ -20,6 +21,12 @@ tags: [person]
 - [[The Chapters (Mob)]]
 
 **On the [[Investigation Board]]:** TJ → The MOB → "Maxton Gibson" → "@Shelly".
+
+
+
+## Threads
+- [[Identity of Mr. J]]
+- [[Maxwell Gibson's Death]]
 
 ## Appears in
 - [[II-05 Father Felix]] — Fri 18 July 1924

@@ -16,6 +16,11 @@ tags: [mythos]
 - [[Helga]]
 - [[Shelly's Facility]]
 
+
+
+## Threads
+- [[The Jersey Devil Hunt]]
+
 ## Appears in
 - [[II-01 The Meeting]] — Fri 4 – Sun 6 July 1924
 - [[II-02 The Jersey Devil]] — Mon 7 July 1924

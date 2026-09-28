@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 status: "Alive"
 first_seen: "[[I-01 Mystery of the Ponzi Potion]]"
 tags: [person]
@@ -18,6 +19,11 @@ tags: [person]
 ## Connections
 - [[Walter]]
 - [[The Black]]
+
+
+
+## Threads
+- [[Chase and Walter's Stolen Research]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

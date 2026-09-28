@@ -1,5 +1,6 @@
 ---
 type: person
+state: captive
 aliases: ["John Longarms", "John Longarm", "John"]
 status: "In Bureau custody (II-12) — dead? re-animated?"
 first_seen: "[[I-02 The Stakeout and the Case against Arthur Wakefield]]"
@@ -31,6 +32,15 @@ tags: [person]
 
 ## Sketches
 ![[b05-john-in-the-dungeon.jpg|200]]
+
+
+
+## Threads
+- [[Why Gates Buried the Longarm Case]]
+- [[Identity of Mr. J]]
+- [[Mr. J is Long-Armed John]]
+- [[The Mob's Hunt for TJ]]
+- [[Long-Armed John's Return from the Dead]]
 
 ## Appears in
 - [[I-02 The Stakeout and the Case against Arthur Wakefield]] — Spring 1924 (Arkham) — fine due 31 May

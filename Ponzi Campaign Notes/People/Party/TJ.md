@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["T.J.", "Thomson (?)"]
 status: "Alive — Bureau agent"
 first_seen: "[[I-01 Mystery of the Ponzi Potion]]"
@@ -37,6 +38,15 @@ tags: [person, pc, party]
 - [[Elias]] — friend
 - [[Maxwell Gibson]], [[Peterson]] — contacts
 - [[The Compass]] — carries it
+
+
+
+## Threads
+- [[The Man Who Fell from the Sky]]
+- [[The Framing of Elias]]
+- [[The Society Lady Who Wants TJ]]
+- [[The Mob's Hunt for TJ]]
+- [[Maxwell Gibson's Death]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

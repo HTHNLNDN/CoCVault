@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[I-09 Eggventures of Chuckleberry Jim]]"
 tags: [person]
 ---

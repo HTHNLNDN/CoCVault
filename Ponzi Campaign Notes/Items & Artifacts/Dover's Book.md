@@ -15,6 +15,11 @@ tags: [item]
 - Arthur retrieves it from the hospital; TJ is furious it came into the house. ([[I-04 TJs and Js - Suspects of Devilwork|I-04]])
 - Burned. ([[I-06 The Cliffs of Dover|I-06]])
 
+
+
+## Threads
+- [[Dover's Vendetta]]
+
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)
 - [[I-04 TJs and Js - Suspects of Devilwork]] — Spring 1924 (Arkham)

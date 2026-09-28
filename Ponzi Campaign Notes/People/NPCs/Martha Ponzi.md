@@ -1,5 +1,6 @@
 ---
 type: person
+state: unknown
 aliases: ["Martha"]
 status: "Purified (II-11) — condition unknown"
 first_seen: "[[I-07 The Cliffs are Dover]]"
@@ -23,6 +24,12 @@ tags: [person]
 - [[William Charles Ponzi]]
 - [[Ponzi's Letter to Martha]]
 - [[Purifying Flame]]
+
+
+
+## Threads
+- [[Purify Ponzi's Wife and Child]]
+- [[The Rotting Woman in Ponzi's House]]
 
 ## Appears in
 - [[I-07 The Cliffs are Dover]] — Spring 1924 (Arkham)

@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["Carrington"]
 first_seen: "[[I-15 Carrington my Wayward Son]]"
 tags: [person]
@@ -20,6 +21,11 @@ tags: [person]
 - [[Carrington Mansion]]
 - [[Dragon Eggs]]
 - [[Albert Hackett]]
+
+
+
+## Threads
+- [[The Carrington Vandalism]]
 
 ## Appears in
 - [[I-15 Carrington my Wayward Son]] — June 1924

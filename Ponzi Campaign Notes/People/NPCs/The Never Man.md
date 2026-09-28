@@ -1,5 +1,6 @@
 ---
 type: person
+state: unknown
 aliases: ["N"]
 first_seen: "[[II-09 Mortimer, the Mask and the Chapters]]"
 tags: [person]
@@ -15,6 +16,9 @@ tags: [person]
 ## Connections
 - [[The Chapters (Mob)]]
 - [[Mr. J]]
+
+## Threads
+- [[Identity of the Never Man]]
 
 ## Appears in
 - [[II-09 Mortimer, the Mask and the Chapters]] — Sat 26 – Mon 28 July 1924

@@ -1,5 +1,6 @@
 ---
 type: person
+state: dead
 aliases: ["Father Felix", "Oakley", "the priest"]
 status: "Dead (II-05)"
 first_seen: "[[II-04 The Search for Ponzi]]"
@@ -24,6 +25,11 @@ tags: [person]
 - [[The Everliving Flame]]
 - [[Sanctified Wax]]
 - [[Father Felix's Church]]
+
+
+
+## Threads
+- [[Father Felix and the Angel]]
 
 ## Appears in
 - [[II-04 The Search for Ponzi]] — Mon 14 – Wed 17 July 1924

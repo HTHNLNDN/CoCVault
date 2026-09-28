@@ -19,6 +19,11 @@ tags: [mythos]
 - [[Jacob Dover]]
 - [[The Sigils]]
 
+
+
+## Threads
+- [[Dover's Vendetta]]
+
 ## Appears in
 - [[I-05 Cliffs before Dover]] — Spring 1924 (Arkham)
 - [[I-06 The Cliffs of Dover]] — Spring 1924 (Arkham)

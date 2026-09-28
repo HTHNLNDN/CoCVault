@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"Threads/\" OR path:\"People/\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Threads/\" [status:open]",
+      "color": {
+        "a": 1,
+        "rgb": 15026253
+      }
+    },
+    {
+      "query": "path:\"Threads/\" [status:partial]",
+      "color": {
+        "a": 1,
+        "rgb": 16214805
+      }
+    },
+    {
+      "query": "path:\"Threads/\" [status:resolved]",
+      "color": {
+        "a": 1,
+        "rgb": 3187820
+      }
+    },
+    {
+      "query": "path:\"Threads/\" [status:\"dead-end\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5134955
+      }
+    },
+    {
+      "query": "path:\"People/\" [state:dead]",
+      "color": {
+        "a": 1,
+        "rgb": 5134955
+      }
+    },
+    {
+      "query": "path:\"People/Party\"",
+      "color": {
+        "a": 1,
+        "rgb": 4088797
+      }
+    },
+    {
+      "query": "path:\"People/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1222036
+      }
+    },
+    {
+      "query": "path:Places",
+      "color": {
+        "a": 1,
+        "rgb": 10584178
+      }
+    },
+    {
+      "query": "path:\"Mythos & Creatures\"",
+      "color": {
+        "a": 1,
+        "rgb": 9326278
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 200,
+  "scale": 1,
+  "close": true
+}

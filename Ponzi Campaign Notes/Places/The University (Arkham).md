@@ -19,6 +19,11 @@ tags: [place]
 - A professor who knows Sebastian opens the restricted library; the forbidden section is next. ([[II-12 The Forbidden Library|II-12]])
 - [[German Spellbook]] found in the library. ([[II-12 The Forbidden Library|II-12]])
 
+
+
+## Threads
+- [[Dover's Father's Stories]]
+
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)
 - [[I-03 Trouble in Texaxe]] — Spring 1924 (Arkham)

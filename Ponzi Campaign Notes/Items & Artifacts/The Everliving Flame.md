@@ -16,6 +16,11 @@ tags: [item]
 - Wax taken off the fire. ([[II-05 Father Felix|II-05]])
 - Moved to the Blackwood Estate hearth; "using the fire requires sacrifice". ([[II-07 The Bible and the Everliving Flame|II-07]])
 
+
+
+## Threads
+- [[Father Felix and the Angel]]
+
 ## Appears in
 - [[II-04 The Search for Ponzi]] — Mon 14 – Wed 17 July 1924
 - [[II-05 Father Felix]] — Fri 18 July 1924

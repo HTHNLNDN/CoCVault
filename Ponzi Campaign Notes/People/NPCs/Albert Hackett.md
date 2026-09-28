@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["Alfred", "Albert", "Hackett"]
 first_seen: "[[I-15 Carrington my Wayward Son]]"
 tags: [person]
@@ -18,6 +19,12 @@ tags: [person]
 ## Connections
 - [[The Dragon (Byakhee)]]
 - [[The Marsh Wizard of Ipswich]]?
+
+
+
+## Threads
+- [[The Carrington Vandalism]]
+- [[Albert Hackett and the Marsh Wizard]]
 
 ## Appears in
 - [[I-15 Carrington my Wayward Son]] — June 1924

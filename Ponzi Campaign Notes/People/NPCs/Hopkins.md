@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[I-21 Skulls 4 the Skull Throne]]"
 tags: [person]
 ---
@@ -18,6 +19,12 @@ tags: [person]
 - [[Ghouls (The Dogs)]]
 - [[Catacombs under Corpus Christi]]
 - [[William Charles Ponzi]] — deal
+
+
+
+## Threads
+- [[Ponzi's Hidden Skulls]]
+- [[Ponzi's Promise to Hopkins]]
 
 ## Appears in
 - [[I-21 Skulls 4 the Skull Throne]] — June 1924

@@ -1,5 +1,6 @@
 ---
 type: person
+state: dead
 aliases: ["Arthur", "Wakefield"]
 status: "Dead (I-09)"
 first_seen: "[[I-01 Mystery of the Ponzi Potion]]"
@@ -31,6 +32,14 @@ tags: [person, pc, party]
 - [[Dover's Book]]
 - [[Arthur's Notes]]
 - [[Arthur's Belongings]]
+
+
+
+## Threads
+- [[The Case against Arthur Wakefield]]
+- [[Arthur's Stranger]]
+- [[How Arthur Died]]
+- [[Arthur's Innsmouth Task]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

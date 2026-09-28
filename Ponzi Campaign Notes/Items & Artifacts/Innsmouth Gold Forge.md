@@ -15,6 +15,11 @@ tags: [item]
 - [[Innsmouth Gold Coins]]
 - [[The Chapters (Mob)]]
 
+
+
+## Threads
+- [[Crystals, Eggs and the Gold Forge]]
+
 ## Appears in
 - [[I-24 The Last Straw]] — Early July 1924
 - [[II-09 Mortimer, the Mask and the Chapters]] — Sat 26 – Mon 28 July 1924

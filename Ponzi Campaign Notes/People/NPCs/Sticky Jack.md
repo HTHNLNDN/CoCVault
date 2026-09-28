@@ -1,5 +1,6 @@
 ---
 type: person
+state: dead
 status: "Dead (I-11)"
 first_seen: "[[I-10 A Slim Chance of Shady]]"
 tags: [person]
@@ -18,6 +19,12 @@ tags: [person]
 - [[The Stolen Greek Text]]
 - [[Innsmouth Gold Coins]]
 - [[Vince (The Spider)]]
+
+
+
+## Threads
+- [[Dover as the Thief]]
+- [[Who Stole the Bureau's Items]]
 
 ## Appears in
 - [[I-10 A Slim Chance of Shady]] — Spring 1924 (Arkham)

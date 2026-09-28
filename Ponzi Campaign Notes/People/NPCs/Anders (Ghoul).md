@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["Anders"]
 first_seen: "[[II-10 John, Shelly and Gloucester]]"
 tags: [person]
@@ -15,6 +16,11 @@ tags: [person]
 ## Connections
 - [[Ghouls (The Dogs)]]
 - [[Gloucester]]
+
+
+
+## Threads
+- [[Operation Last Supper and the Gloucester Dogs]]
 
 ## Appears in
 - [[II-10 John, Shelly and Gloucester]] — Mon 28 July 1924 (cont.)

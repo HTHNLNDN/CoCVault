@@ -23,3 +23,6 @@ Hand-drawn mind map on the last spread of Notebook I, drawn in the Notebook II e
 
 ## Source scan
 ![[scan-A19.jpg]]
+
+## Threads
+- [[Sebastian the Marsh Heir]]

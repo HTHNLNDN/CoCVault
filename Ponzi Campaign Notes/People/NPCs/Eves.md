@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[I-15 Carrington my Wayward Son]]"
 tags: [person]
 ---

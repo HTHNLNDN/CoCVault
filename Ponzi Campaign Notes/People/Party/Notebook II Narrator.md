@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["the Hunter", "Eli (?)"]
 status: "Alive — Bureau recruit"
 first_seen: "[[II-01 The Meeting]]"
@@ -24,6 +25,12 @@ tags: [person, pc, party]
 - Finds the [[German Spellbook]] on messages of the Dreamer. ([[II-12 The Forbidden Library|II-12]])
 
 > [!question] **Name?** The journal never names its author. On the [[Investigation Board]] this character's personal threads ("The Shirt in the Desert", "The Monster of the Black Forest") hang off **"ELI"** — but TJ's jailed friend [[Elias]] is also called "Eli" (II-09). Rename this note once confirmed; Obsidian updates every link automatically.
+
+
+
+## Threads
+- [[The Black Forest Beast]]
+- [[The Shirt's Curse]]
 
 ## Appears in
 - [[II-01 The Meeting]] — Fri 4 – Sun 6 July 1924

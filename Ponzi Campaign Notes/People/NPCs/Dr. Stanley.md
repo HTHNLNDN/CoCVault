@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[I-09 Eggventures of Chuckleberry Jim]]"
 tags: [person]
 ---
@@ -13,6 +14,11 @@ tags: [person]
 
 ## Connections
 - [[The Stolen Greek Text]]
+
+
+
+## Threads
+- [[Recover the Stolen Greek Text and Coins]]
 
 ## Appears in
 - [[I-09 Eggventures of Chuckleberry Jim]] — Spring 1924 (Arkham)

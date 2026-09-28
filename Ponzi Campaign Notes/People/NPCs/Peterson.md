@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[II-08 The Framing of Elias]]"
 tags: [person]
 ---

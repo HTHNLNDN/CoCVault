@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["Selton Stall"]
 first_seen: "[[II-08 The Framing of Elias]]"
 tags: [person]
@@ -16,6 +17,11 @@ tags: [person]
 ## Connections
 - [[Dallas]]
 - [[The Chapters (Mob)]]
+
+
+
+## Threads
+- [[Saltonstall's Role]]
 
 ## Appears in
 - [[II-08 The Framing of Elias]] — Thu 24 – Sat 26 July 1924

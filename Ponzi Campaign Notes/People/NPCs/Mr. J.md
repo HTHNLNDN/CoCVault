@@ -1,5 +1,6 @@
 ---
 type: person
+state: unknown
 aliases: ["J"]
 first_seen: "[[II-05 Father Felix]]"
 tags: [person]
@@ -19,6 +20,12 @@ tags: [person]
 - [[Maxwell Gibson]]
 - [[The Never Man]]
 - [[The Chapters (Mob)]]
+
+
+
+## Threads
+- [[Identity of Mr. J]]
+- [[Mr. J is Long-Armed John]]
 
 ## Appears in
 - [[II-05 Father Felix]] — Fri 18 July 1924

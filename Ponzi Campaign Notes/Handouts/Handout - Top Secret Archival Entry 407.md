@@ -15,5 +15,10 @@ tags: [handout]
 
 Full text in [[I-22 Dog Water]]. → [[Gates]], [[Ghouls (The Dogs)]], [[The Bureau]]
 
+
+
+## Threads
+- [[Operation Last Supper and the Gloucester Dogs]]
+
 ## Appears in
 - [[I-22 Dog Water]] — June 1924

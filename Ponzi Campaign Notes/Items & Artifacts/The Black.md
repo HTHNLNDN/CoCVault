@@ -26,6 +26,13 @@ tags: [item]
 - [[Paul Rodgers]]
 - [[The Chapters (Mob)]] — Chapter 30?
 
+
+
+## Threads
+- [[How Arthur Died]]
+- [[Where the Black Comes From]]
+- [[Chase and Walter's Stolen Research]]
+
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)
 - [[I-07 The Cliffs are Dover]] — Spring 1924 (Arkham)

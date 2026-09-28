@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["Grand Wizard Jimmy", "Jimny"]
 status: "Alive"
 first_seen: "[[I-07 The Cliffs are Dover]]"
@@ -32,6 +33,12 @@ tags: [person]
 - [[The Bureau]]
 - [[The Magic Wardrobe]]
 - [[Jimmy's Vault]]
+
+
+
+## Threads
+- [[The Bureau Entrance Exam]]
+- [[Ponzi's Hidden Skulls]]
 
 ## Appears in
 - [[I-07 The Cliffs are Dover]] — Spring 1924 (Arkham)
