@@ -15,6 +15,11 @@ tags: [item]
 
 **On the [[Investigation Board]]:** ELI → "The Shirt in the Desert".
 
+
+
+## Threads
+- [[The Shirt's Curse]]
+
 ## Appears in
 - [[II-03 Little Bear and the Shirt]] — Thu 8[?] – Sun 13 July 1924
 - [[II-08 The Framing of Elias]] — Thu 24 – Sat 26 July 1924

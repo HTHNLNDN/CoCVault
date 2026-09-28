@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["the shop-lady"]
 first_seen: "[[I-23 In Insmuth]]"
 tags: [person]

@@ -1,0 +1,79 @@
+properties:
+  note.status:
+    displayName: Status
+  note.arc:
+    displayName: Arc
+  note.opened:
+    displayName: Opened in
+  note.last_update:
+    displayName: Last update
+  note.state:
+    displayName: State
+views:
+  - type: table
+    name: Open threads
+    filters:
+      and:
+        - 'type == "thread"'
+        - 'status == "open"'
+    groupBy:
+      property: note.arc
+      direction: ASC
+    order:
+      - file.name
+      - note.last_update
+  - type: table
+    name: In progress
+    filters:
+      and:
+        - 'type == "thread"'
+        - 'status == "partial"'
+    order:
+      - file.name
+      - note.arc
+      - note.last_update
+  - type: table
+    name: Resolved
+    filters:
+      and:
+        - 'type == "thread"'
+        - 'status == "resolved"'
+    order:
+      - file.name
+      - note.arc
+      - note.last_update
+  - type: table
+    name: Dead ends
+    filters:
+      and:
+        - 'type == "thread"'
+        - 'status == "dead-end"'
+    order:
+      - file.name
+      - note.arc
+      - note.last_update
+  - type: table
+    name: All threads by status
+    filters:
+      and:
+        - 'type == "thread"'
+    groupBy:
+      property: note.status
+      direction: DESC
+    order:
+      - file.name
+      - note.arc
+      - note.opened
+      - note.last_update
+  - type: table
+    name: Cast by state
+    filters:
+      and:
+        - 'type == "person"'
+    groupBy:
+      property: note.state
+      direction: ASC
+    order:
+      - file.name
+      - note.state
+      - note.status

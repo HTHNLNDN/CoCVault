@@ -1,5 +1,6 @@
 ---
 type: person
+state: dead
 status: "Dead"
 first_seen: "[[I-01 Mystery of the Ponzi Potion]]"
 tags: [person]

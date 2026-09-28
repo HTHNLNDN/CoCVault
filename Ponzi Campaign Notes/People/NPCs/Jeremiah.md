@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[I-25 Dreamers Abound]]"
 tags: [person]
 ---
@@ -15,6 +16,11 @@ tags: [person]
 - [[Jeremiah's Letter]]
 - [[Innsmouth]]
 - [[G-Man]]
+
+
+
+## Threads
+- [[G-Man and Jeremiah's Debt]]
 
 ## Appears in
 - [[I-25 Dreamers Abound]] — Early July 1924

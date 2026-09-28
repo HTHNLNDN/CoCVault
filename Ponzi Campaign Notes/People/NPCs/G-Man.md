@@ -21,6 +21,11 @@ tags: [entity]
 > [!tip] Mythos lore (speculation)
 > In Lovecraft's stories, a dark "Egyptian" man with many names is the classic guise of **Nyarlathotep**. Nothing in the journal confirms it.
 
+
+
+## Threads
+- [[G-Man and Jeremiah's Debt]]
+
 ## Appears in
 - [[I-24 The Last Straw]] — Early July 1924
 - [[I-25 Dreamers Abound]] — Early July 1924

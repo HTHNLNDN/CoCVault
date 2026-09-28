@@ -24,6 +24,11 @@ tags: [item]
 
 Full text: [[Handout - Bible of Father Felix]].
 
+
+
+## Threads
+- [[Father Felix and the Angel]]
+
 ## Appears in
 - [[II-05 Father Felix]] — Fri 18 July 1924
 - [[II-07 The Bible and the Everliving Flame]] — Mon 21 – Wed 23 July 1924

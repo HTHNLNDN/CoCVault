@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["Mr. Gates", "A. J. Gates", "L. Colonel A.J. Gates"]
 first_seen: "[[I-22 Dog Water]]"
 tags: [person]
@@ -19,6 +20,14 @@ tags: [person]
 - [[The Bureau]]
 - [[Chief Luther]]
 - [[Ghouls (The Dogs)]]
+
+
+
+## Threads
+- [[Who Killed Chief Luther]]
+- [[Why Gates Buried the Longarm Case]]
+- [[Operation Last Supper and the Gloucester Dogs]]
+- [[Where Ponzi Is]]
 
 ## Appears in
 - [[I-22 Dog Water]] — June 1924

@@ -1,5 +1,6 @@
 ---
 type: person
+state: captive
 aliases: ["Eli"]
 status: "Jailed — acquittal looking likely"
 first_seen: "[[II-08 The Framing of Elias]]"
@@ -22,6 +23,11 @@ tags: [person]
 - [[The Elias Mask]]
 - [[Otis]]
 - [[Mortimer]]
+
+
+
+## Threads
+- [[The Framing of Elias]]
 
 ## Appears in
 - [[II-08 The Framing of Elias]] — Thu 24 – Sat 26 July 1924

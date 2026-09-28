@@ -15,5 +15,10 @@ tags: [item]
 - [[Elias]]
 - [[The Ex-Mob Warehouse]]
 
+
+
+## Threads
+- [[The Framing of Elias]]
+
 ## Appears in
 - [[II-09 Mortimer, the Mask and the Chapters]] — Sat 26 – Mon 28 July 1924

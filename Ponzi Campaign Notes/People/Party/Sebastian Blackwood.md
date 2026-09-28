@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["Blackwood", "SB", "Seb", "the Marsh heir"]
 status: "Alive — Bureau agent"
 first_seen: "[[I-10 A Slim Chance of Shady]]"
@@ -34,6 +35,14 @@ tags: [person, pc, party]
 - [[Innsmouth]] — "Marsh heir"
 
 **On the [[Investigation Board]]:** Sebastian → "Dogs" (in Gloucester) · "Marriage".
+
+
+
+## Threads
+- [[Operation Last Supper and the Gloucester Dogs]]
+- [[The Society Lady Who Wants TJ]]
+- [[G-Man and Jeremiah's Debt]]
+- [[Sebastian the Marsh Heir]]
 
 ## Appears in
 - [[I-10 A Slim Chance of Shady]] — Spring 1924 (Arkham)

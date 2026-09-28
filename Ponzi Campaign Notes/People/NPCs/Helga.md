@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[II-02 The Jersey Devil]]"
 tags: [person]
 ---
@@ -14,6 +15,11 @@ tags: [person]
 ## Connections
 - [[The Jersey Devil]]
 - [[New Jersey]]
+
+
+
+## Threads
+- [[The Jersey Devil Hunt]]
 
 ## Appears in
 - [[II-02 The Jersey Devil]] — Mon 7 July 1924

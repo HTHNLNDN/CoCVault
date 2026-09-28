@@ -1,5 +1,6 @@
 ---
 type: person
+state: dead
 aliases: ["Luther"]
 status: "Dead (II-06)"
 first_seen: "[[I-01 Mystery of the Ponzi Potion]]"
@@ -23,6 +24,13 @@ tags: [person]
 - [[Arkham Police Station]]
 - [[Gates]]
 - [[B. Fisher]]
+
+
+
+## Threads
+- [[The Case against Arthur Wakefield]]
+- [[Who Killed Chief Luther]]
+- [[Why Gates Buried the Longarm Case]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

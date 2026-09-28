@@ -20,6 +20,12 @@ tags: [place]
 - [[Innsmouth Gold Coins]]
 - [[The Chapters (Mob)]] — Chapter 31: Innsmouth Gold
 
+
+
+## Threads
+- [[Arthur's Innsmouth Task]]
+- [[Sebastian the Marsh Heir]]
+
 ## Appears in
 - [[I-23 In Insmuth]] — June–early July 1924
 - [[I-24 The Last Straw]] — Early July 1924

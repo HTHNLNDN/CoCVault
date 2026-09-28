@@ -15,6 +15,11 @@ tags: [place]
 - Ponzi plans to go back to Alabama. ([[I-24 The Last Straw|I-24]])
 - Abandoned; a letter; a rotting woman who won't die; a Black ritual in the kitchen; dust over the farmland. ([[II-04 The Search for Ponzi|II-04]])
 
+
+
+## Threads
+- [[The Rotting Woman in Ponzi's House]]
+
 ## Appears in
 - [[I-24 The Last Straw]] — Early July 1924
 - [[II-04 The Search for Ponzi]] — Mon 14 – Wed 17 July 1924

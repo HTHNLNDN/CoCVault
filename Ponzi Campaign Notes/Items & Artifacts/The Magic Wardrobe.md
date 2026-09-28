@@ -17,6 +17,11 @@ tags: [item]
 - [[Jimmy]]
 - [[The Compass]]
 
+
+
+## Threads
+- [[The Bureau Entrance Exam]]
+
 ## Appears in
 - [[I-12 The Liar, the Snitch and the Wardrobe]] — Spring 1924
 - [[I-20 Fog of War]] — June 1924

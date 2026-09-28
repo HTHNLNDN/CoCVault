@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[II-03 Little Bear and the Shirt]]"
 tags: [person]
 ---
@@ -14,6 +15,11 @@ tags: [person]
 ## Connections
 - [[The Shirt]]
 - [[The Prairie]]
+
+
+
+## Threads
+- [[The Shirt's Curse]]
 
 ## Appears in
 - [[II-03 Little Bear and the Shirt]] — Thu 8[?] – Sun 13 July 1924

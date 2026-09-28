@@ -14,5 +14,10 @@ tags: [item]
 
 > [!question] The [[Handout - Bringing the Black Draught]] is pasted in soon after Ponzi reads these notes — possibly an excerpt from them?
 
+
+
+## Threads
+- [[Ponzi's Tattoos and the Sigils]]
+
 ## Appears in
 - [[I-12 The Liar, the Snitch and the Wardrobe]] — Spring 1924

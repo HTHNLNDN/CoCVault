@@ -18,6 +18,11 @@ tags: [mythos]
 - [[The Dragon (Byakhee)]]
 - [[Handout - The Marsh Wizard of Ipswich]]
 
+
+
+## Threads
+- [[Albert Hackett and the Marsh Wizard]]
+
 ## Appears in
 - [[I-16 Mary Marry Maybe]] — June 1924
 - [[I-17 Eggs of Power]] — June 1924

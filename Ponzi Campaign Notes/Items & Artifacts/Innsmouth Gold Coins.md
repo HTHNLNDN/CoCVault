@@ -14,6 +14,13 @@ tags: [item]
 - Going to Innsmouth to finish Arthur's task. ([[I-23 In Insmuth|I-23]])
 - Chapter 31: Innsmouth Gold. ([[II-09 Mortimer, the Mask and the Chapters|II-09]])
 
+
+
+## Threads
+- [[Recover the Stolen Greek Text and Coins]]
+- [[Arthur's Innsmouth Task]]
+- [[Crystals, Eggs and the Gold Forge]]
+
 ## Appears in
 - [[I-09 Eggventures of Chuckleberry Jim]] — Spring 1924 (Arkham)
 - [[I-11 Apartmentdox]] — Spring 1924 (Arkham)

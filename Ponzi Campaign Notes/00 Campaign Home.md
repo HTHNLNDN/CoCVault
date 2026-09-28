@@ -10,7 +10,8 @@ tags: [meta, home]
 > [[William Charles Ponzi|Ponzi]], the conman who wrote Notebook I, has **deserted [[The Bureau]]** after falling to [[The Black]], [[The Sigils|the sigils]] and [[The Jewelled Skull|skulls]]. [[Arthur Wakefield|Arthur]] is dead; [[Delila Arlington|Delila]] was last seen in Arkham. [[TJ]] and [[Sebastian Blackwood|Sebastian]] now work with a new recruit (the [[Notebook II Narrator]]). Ponzi's family has been purified, and his price was a lead: **the beast is in [[Blackwood Forest]]**. Meanwhile [[Elias]] was framed with a mask, [[Chief Luther]] is dead, and nobody knows who [[Mr. J]] is.
 
 ## Start here
-- 🧭 [[Open Threads and Clues]] — every unresolved question, with links to the evidence
+- 🧭 [[Open Threads and Clues]] — live lists of open, in-progress, resolved and dead-end threads
+- 🎨 [[How to Read the Graph]] — what the graph colours mean and how to update a thread's status
 - 🕰️ [[Timeline]] — what happened when
 - 🕸️ [[Investigation Board]] — the hand-drawn mind map
 - 📝 [[Transcription Notes]] — conventions, sources, readings to double-check
@@ -26,7 +27,7 @@ tags: [meta, home]
 | | [[Notebook II Narrator]] — big-game hunter (Eli?) | Bureau recruit |
 
 ## Browse
-[[Index - People|👤 People]] · [[Index - Places|📍 Places]] · [[Index - Factions|🏛️ Factions]] · [[Index - Items and Artifacts|🗝️ Items & Artifacts]] · [[Index - Mythos and Creatures|🐙 Mythos & Creatures]] · [[Index - Spells and Rituals|🔥 Spells & Rituals]] · [[Index - Handouts|📜 Handouts]]
+[[Open Threads and Clues|🧵 Threads]] · [[Index - People|👤 People]] · [[Index - Places|📍 Places]] · [[Index - Factions|🏛️ Factions]] · [[Index - Items and Artifacts|🗝️ Items & Artifacts]] · [[Index - Mythos and Creatures|🐙 Mythos & Creatures]] · [[Index - Spells and Rituals|🔥 Spells & Rituals]] · [[Index - Handouts|📜 Handouts]]
 
 ## Notebook I — Ponzi's journal
 | # | Chapter | When |
@@ -75,6 +76,6 @@ tags: [meta, home]
 | [[II-13 Fresh Fish of Marsh Heir\|II-13]] | Fresh Fish of Marsh Heir | — |
 
 > [!tip] Seeing the connections
-> - **Graph view** (Ctrl/Cmd+G) shows how people, places and clues link together. Try the local graph on a note like [[The Black]] or [[Mr. J]].
+> - **Graph view** opens as a colour-coded case web (threads + people): 🔴 open, 🟠 in progress, 🟢 resolved, ⚫ dead end or dead. See [[How to Read the Graph]].
 > - Every entity note ends with **Appears in**, listing the journal entries that mention it. The Backlinks pane shows the rest.
 > - Tags: `#journal`, `#notebook-I`, `#notebook-II`, `#person`, `#place`, `#item`, `#mythos`, `#spell`, `#handout`, `#sanity-loss`.

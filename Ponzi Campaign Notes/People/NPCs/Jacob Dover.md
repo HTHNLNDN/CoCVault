@@ -1,5 +1,6 @@
 ---
 type: person
+state: dead
 aliases: ["Dover", "Mr. Dover"]
 status: "Dead (I-06)"
 first_seen: "[[I-01 Mystery of the Ponzi Potion]]"
@@ -25,6 +26,14 @@ tags: [person]
 - [[Dover's Ritual]]
 - [[The Slaughterhouse]]
 - [[William Charles Ponzi]] — vendetta
+
+
+
+## Threads
+- [[Dover's Vendetta]]
+- [[Arthur's Stranger]]
+- [[Dover's Father's Stories]]
+- [[Dover as the Thief]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

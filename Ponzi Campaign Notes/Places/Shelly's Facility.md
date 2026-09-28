@@ -14,6 +14,11 @@ tags: [place]
 - John traded; blood donated. ([[II-10 John, Shelly and Gloucester|II-10]])
 - John on the operating table. ([[II-12 The Forbidden Library|II-12]])
 
+
+
+## Threads
+- [[The Jersey Devil Hunt]]
+
 ## Appears in
 - [[II-02 The Jersey Devil]] — Mon 7 July 1924
 - [[II-10 John, Shelly and Gloucester]] — Mon 28 July 1924 (cont.)

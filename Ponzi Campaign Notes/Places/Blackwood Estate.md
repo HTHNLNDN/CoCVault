@@ -19,6 +19,11 @@ tags: [place]
 - The purification ritual. ([[II-11 The Purification|II-11]])
 - "Blackwood estate born and raised". ([[II-13 Fresh Fish of Marsh Heir|II-13]])
 
+
+
+## Threads
+- [[Purify Ponzi's Wife and Child]]
+
 ## Appears in
 - [[I-22 Dog Water]] — June 1924
 - [[II-07 The Bible and the Everliving Flame]] — Mon 21 – Wed 23 July 1924

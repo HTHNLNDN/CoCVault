@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["Fisher"]
 status: "Alive"
 first_seen: "[[I-03 Trouble in Texaxe]]"
@@ -21,6 +22,11 @@ tags: [person]
 ## Connections
 - [[The Bureau]]
 - [[Jimmy]]
+
+
+
+## Threads
+- [[Who Killed Chief Luther]]
 
 ## Appears in
 - [[I-03 Trouble in Texaxe]] — Spring 1924 (Arkham)

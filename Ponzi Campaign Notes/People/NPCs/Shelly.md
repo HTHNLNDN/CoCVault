@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[II-02 The Jersey Devil]]"
 tags: [person]
 ---
@@ -18,6 +19,11 @@ tags: [person]
 - [[Shelly's Facility]]
 
 **On the [[Investigation Board]]:** "Maxton Gibson" is linked to "@Shelly".
+
+
+
+## Threads
+- [[Long-Armed John's Return from the Dead]]
 
 ## Appears in
 - [[II-02 The Jersey Devil]] — Mon 7 July 1924

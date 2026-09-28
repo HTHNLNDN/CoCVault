@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 aliases: ["the Texas gangster"]
 status: "Alive — released via B. Fisher (II-09)"
 first_seen: "[[I-01 Mystery of the Ponzi Potion]]"
@@ -21,6 +22,14 @@ tags: [person]
 ## Connections
 - [[The Chapters (Mob)]]
 - [[Saltonstall]]
+
+
+
+## Threads
+- [[Identity of Mr. J]]
+- [[Mr. J is Long-Armed John]]
+- [[Identity of the Never Man]]
+- [[Saltonstall's Role]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

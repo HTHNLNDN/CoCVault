@@ -1,5 +1,6 @@
 ---
 type: person
+state: missing
 status: "Missing (I-02)"
 first_seen: "[[I-01 Mystery of the Ponzi Potion]]"
 tags: [person]
@@ -17,6 +18,12 @@ tags: [person]
 ## Connections
 - [[The Black]]
 - [[The University (Arkham)]]
+
+
+
+## Threads
+- [[The Case against Arthur Wakefield]]
+- [[Where the Black Comes From]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

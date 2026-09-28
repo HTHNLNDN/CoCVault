@@ -15,6 +15,11 @@ tags: [mythos]
 - One drops through the car roof. ([[I-25 Dreamers Abound|I-25]])
 - Verse: "fresh fish and the Marsh heir". ([[II-13 Fresh Fish of Marsh Heir|II-13]])
 
+
+
+## Threads
+- [[Sebastian the Marsh Heir]]
+
 ## Appears in
 - [[I-20 Fog of War]] — June 1924
 - [[I-23 In Insmuth]] — June–early July 1924

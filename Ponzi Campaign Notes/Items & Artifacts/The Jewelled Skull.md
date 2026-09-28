@@ -25,6 +25,11 @@ tags: [item]
 - [[Hopkins]]
 - [[Ghouls (The Dogs)]]
 
+
+
+## Threads
+- [[Ponzi's Hidden Skulls]]
+
 ## Appears in
 - [[I-18 Muddy Thoughts]] — June 1924
 - [[I-19 Prismatic Shards]] — June 1924

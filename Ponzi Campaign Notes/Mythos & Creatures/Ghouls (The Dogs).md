@@ -24,6 +24,12 @@ tags: [mythos]
 - [[Handout - Top Secret Archival Entry 407]]
 - [[Gloucester]]
 
+
+
+## Threads
+- [[Operation Last Supper and the Gloucester Dogs]]
+- [[Ponzi's Promise to Hopkins]]
+
 ## Appears in
 - [[I-21 Skulls 4 the Skull Throne]] — June 1924
 - [[I-22 Dog Water]] — June 1924

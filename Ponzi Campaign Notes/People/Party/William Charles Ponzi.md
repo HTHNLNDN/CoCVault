@@ -1,5 +1,6 @@
 ---
 type: person
+state: missing
 aliases: ["Ponzi", "W. C. Ponzi", "William", "Eduardo"]
 status: "Deserter from the Bureau — whereabouts unknown; appears to the Notebook II narrator at night"
 first_seen: "[[I-01 Mystery of the Ponzi Potion]]"
@@ -58,6 +59,17 @@ tags: [person, pc, party]
 **Notable skills:** Persuade 84 · Psychology 84 · Acting 77 · Listen 74 · Law 68 · Spot Hidden 68 · Fast Talk 63 · Dodge 60 · First Aid 58 · Sleight of Hand 52 · Brawl 47 · Appraise 44 · Rifle/Shotgun 44 · Climb 40 · Disguise 35 · Medicine 29 · Library 28 · Cthulhu Mythos 18.
 
 **Manias:** Skulls · Enclosed spaces · Must buy something.
+
+
+
+## Threads
+- [[Dover's Vendetta]]
+- [[Where Ponzi Is]]
+- [[Purify Ponzi's Wife and Child]]
+- [[Ponzi's Hidden Skulls]]
+- [[Ponzi's Promise to Hopkins]]
+- [[Ponzi's Tattoos and the Sigils]]
+- [[The Black Forest Beast]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

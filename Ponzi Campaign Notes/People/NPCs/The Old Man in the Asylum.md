@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 status: "Alive"
 first_seen: "[[I-08 It's Just Jimmy]]"
 tags: [person]
@@ -17,6 +18,11 @@ tags: [person]
 - [[The Sleepers and the Dreamer]]
 - [[The Sigils]]
 - [[The Asylum]]
+
+
+
+## Threads
+- [[What the Sleepers Want]]
 
 ## Appears in
 - [[I-08 It's Just Jimmy]] — Spring 1924 (Arkham)

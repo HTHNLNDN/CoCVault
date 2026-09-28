@@ -15,5 +15,10 @@ tags: [place]
 - [[Ghouls (The Dogs)]]
 - [[Anders (Ghoul)]]
 
+
+
+## Threads
+- [[Operation Last Supper and the Gloucester Dogs]]
+
 ## Appears in
 - [[II-10 John, Shelly and Gloucester]] — Mon 28 July 1924 (cont.)

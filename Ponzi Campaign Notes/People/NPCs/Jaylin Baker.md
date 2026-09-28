@@ -1,5 +1,6 @@
 ---
 type: person
+state: alive
 first_seen: "[[II-06 Chief Luther and Long-Armed John]]"
 tags: [person]
 ---

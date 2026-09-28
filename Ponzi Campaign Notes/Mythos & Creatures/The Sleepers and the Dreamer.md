@@ -17,6 +17,9 @@ tags: [mythos]
 - "The sleeper will wake. The world will sleep." / THE END IS NIGH. ([[I-25 Dreamers Abound|I-25]])
 - A German spellbook on interpreting the Dreamer's messages. ([[II-12 The Forbidden Library|II-12]])
 
+## Threads
+- [[What the Sleepers Want]]
+
 ## Appears in
 - [[I-05 Cliffs before Dover]] — Spring 1924 (Arkham)
 - [[I-08 It's Just Jimmy]] — Spring 1924 (Arkham)
