@@ -15,8 +15,6 @@ tags: [person]
 ## Connections
 - [[The Stolen Greek Text]]
 
-
-
 ## Threads
 - [[Recover the Stolen Greek Text and Coins]]
 

@@ -15,11 +15,9 @@ tags: [item]
 - [[Elias]]
 - [[The Elias Mask]]
 
-
-
 ## Threads
-- [[The Framing of Elias]]
 - [[Laurie's Photographs]]
+- [[The Framing of Elias]]
 
 ## Appears in
 - [[II-08 The Framing of Elias]] — Thu 24 – Sat 26 July 1924

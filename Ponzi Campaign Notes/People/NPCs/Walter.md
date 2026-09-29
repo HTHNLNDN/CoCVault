@@ -16,8 +16,6 @@ tags: [person]
 - Ponzi wonders how he's doing. ([[I-08 It's Just Jimmy|I-08]])
 - His and Chase's research was stolen. ([[I-09 Eggventures of Chuckleberry Jim|I-09]])
 
-
-
 ## Threads
 - [[Chase and Walter's Stolen Research]]
 

@@ -19,8 +19,6 @@ tags: [mythos]
 - [[Jacob Dover]]
 - [[The Sigils]]
 
-
-
 ## Threads
 - [[Dover's Vendetta]]
 

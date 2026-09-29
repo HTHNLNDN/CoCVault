@@ -14,8 +14,6 @@ tags: [person]
 ## What we know
 - Establishes alibis; after the mask find, thinks they almost have enough for acquittal. ([[II-09 Mortimer, the Mask and the Chapters|II-09]])
 
-
-
 ## Threads
 - [[The Framing of Elias]]
 

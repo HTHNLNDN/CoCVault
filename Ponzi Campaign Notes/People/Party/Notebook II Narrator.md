@@ -25,8 +25,10 @@ tags: [person, pc, party]
 - Finds the [[German Spellbook]] on messages of the Dreamer. ([[II-12 The Forbidden Library|II-12]])
 
 > [!question] **Name?** The journal never names its author. On the [[Investigation Board]] this character's personal threads ("The Shirt in the Desert", "The Monster of the Black Forest") hang off **"ELI"** — but TJ's jailed friend [[Elias]] is also called "Eli" (II-09). Rename this note once confirmed; Obsidian updates every link automatically.
-
-
+- Learns [[The Voorish Sign]] and the [[Ritual Dagger Enchantment]] from the Gospels of the Dreamer. ([[II-14 The Gospels of the Dreamer|II-14]])
+- Finds [[Banishment of Y'detat]]; remembers [[Madam Coral]]'s 8th gate. ([[II-15 The Gates and the Children|II-15]])
+- Obtains [[Send Dream]]. ([[II-16 The Cult of Cthulhu|II-16]])
+- Translates the prophecy on [[The Innsmouth Stones]]. ([[II-17 The Prophecy of the Stones|II-17]])
 
 ## Threads
 - [[The Black Forest Beast]]
@@ -46,3 +48,7 @@ tags: [person, pc, party]
 - [[II-11 The Purification]] — Tue 29 July 1924
 - [[II-12 The Forbidden Library]] — Wed 30 – Thu 31 July 1924
 - [[II-13 Fresh Fish of Marsh Heir]] — —
+- [[II-14 The Gospels of the Dreamer]] — Fri 1 August 1924
+- [[II-15 The Gates and the Children]] — Sat 2 August 1924
+- [[II-16 The Cult of Cthulhu]] — Sun 3 August 1924
+- [[II-17 The Prophecy of the Stones]] — Mon 4 August 1924

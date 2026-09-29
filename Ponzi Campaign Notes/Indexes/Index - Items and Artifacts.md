@@ -22,6 +22,7 @@ tags: [index]
 | [[German Spellbook]] | Found in the university library: information on interpreting messages of the Dreamer. |  |
 | [[Innsmouth Gold Coins]] | Gold coins stolen from the museum — part of the first Bureau task; Innsmouth gold is Chapter 31's business. |  |
 | [[Innsmouth Gold Forge]] | Forge in the caverns beneath Innsmouth, used for gold and powered by the crystals. |  |
+| [[The Innsmouth Stones]] | Inscribed stones from Innsmouth ("the dreamer stones"). |  |
 | [[Jeremiah's Letter]] | Letter from high priest Jeremiah, meant for Sebastian, addressed to G-Man. |  |
 | [[The Jewelled Skull]] | Skull(s) Ponzi collected and "completed" with gems at an altar in Corpus Christi. | Real skulls hidden by Ponzi (I-22) |
 | [[The Magic Wardrobe]] | Jimmy's wardrobe/closet: a portal. |  |

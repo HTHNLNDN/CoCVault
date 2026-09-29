@@ -18,8 +18,6 @@ tags: [mythos]
 - [[The Dragon (Byakhee)]]
 - [[Handout - The Marsh Wizard of Ipswich]]
 
-
-
 ## Threads
 - [[Albert Hackett and the Marsh Wizard]]
 

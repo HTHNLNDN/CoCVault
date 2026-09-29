@@ -38,7 +38,7 @@ Dates are as written in the journals (the Notebook II author occasionally miswri
 |---|---|---|
 | late June / early July | [[Innsmouth]]: shop lady, sabotaged car, [[G-Man]], [[Innsmouth Gold Forge\|the gold forge]], [[Jeremiah]]'s letter. "THE END IS NIGH." | [[I-23 In Insmuth\|I-23]]–[[I-25 Dreamers Abound\|I-25]] |
 
-## Notebook II — July 1924
+## Notebook II — July–August 1924
 | Date | What happened | Entry |
 |---|---|---|
 | Fri 4 Jul | New recruit signs with [[Gates]]; partnered with TJ & Blackwood. | [[II-01 The Meeting\|II-01]] |
@@ -60,3 +60,7 @@ Dates are as written in the journals (the Notebook II author occasionally miswri
 | Sun 27 – Mon 28 Jul | [[The Chapters (Mob)\|The Chapters]] mapped; Dallas released. John traded to [[Shelly]]; dogs to [[Gloucester]]. | II-09 – [[II-10 John, Shelly and Gloucester\|II-10]] |
 | Tue 29 Jul | **Purification** of Ponzi's wife & child; beast is in [[Blackwood Forest]]. | [[II-11 The Purification\|II-11]] |
 | Wed 30 – Thu 31 Jul | Restricted library; **Mr. J ≠ John**; [[German Spellbook]]. | [[II-12 The Forbidden Library\|II-12]] |
+| Fri 1 Aug | The dogs leave the estate. Gospels of the Dreamer; [[The Voorish Sign]], [[Ritual Dagger Enchantment]]. | [[II-14 The Gospels of the Dreamer\|II-14]] |
+| Sat 2 Aug | Sebastian missing at breakfast. The gates on the dreamer stones; [[Nug and Yeb]]; [[Banishment of Y'detat]]. | [[II-15 The Gates and the Children\|II-15]] |
+| Sun 3 Aug | **The Dreamer is [[Cthulhu]]**; the [[Esoteric Order of Dagon]] and the [[Deep Ones]]; [[Send Dream]]. | [[II-16 The Cult of Cthulhu\|II-16]] |
+| Mon 4 Aug | **Prophecy on [[The Innsmouth Stones]]:** Cthulhu will rise when the distant lights align. | [[II-17 The Prophecy of the Stones\|II-17]] |

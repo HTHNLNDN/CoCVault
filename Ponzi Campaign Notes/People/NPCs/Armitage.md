@@ -12,8 +12,6 @@ tags: [person]
 ## What we know
 - Nobody home at Armitage's. ([[I-09 Eggventures of Chuckleberry Jim|I-09]])
 
-
-
 ## Threads
 - [[Who Stole the Bureau's Items]]
 

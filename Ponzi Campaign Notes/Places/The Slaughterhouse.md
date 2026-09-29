@@ -19,8 +19,6 @@ tags: [place]
 - Dover wants TJ brought here. ([[I-04 TJs and Js - Suspects of Devilwork|I-04]])
 - Set ablaze during the assault; Dover killed. ([[I-06 The Cliffs of Dover|I-06]])
 
-
-
 ## Threads
 - [[Dover's Vendetta]]
 

@@ -15,8 +15,6 @@ tags: [place]
 
 **On the [[Investigation Board]]:** ELI → "The Monster of the Black Forest" → "New Moon[?] Blackwood Forest".
 
-
-
 ## Threads
 - [[Purify Ponzi's Wife and Child]]
 - [[The Black Forest Beast]]

@@ -17,8 +17,6 @@ tags: [ritual]
 ## Connections
 - [[Handout - Bringing the Black Draught]]
 
-
-
 ## Threads
 - [[Where the Black Comes From]]
 

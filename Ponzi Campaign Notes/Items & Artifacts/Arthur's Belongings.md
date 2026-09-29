@@ -15,8 +15,6 @@ tags: [item]
 - [[Arthur Wakefield]]
 - [[The Black]]
 
-
-
 ## Threads
 - [[How Arthur Died]]
 

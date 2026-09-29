@@ -20,8 +20,6 @@ tags: [person]
 - [[Catacombs under Corpus Christi]]
 - [[William Charles Ponzi]] — deal
 
-
-
 ## Threads
 - [[Ponzi's Hidden Skulls]]
 - [[Ponzi's Promise to Hopkins]]

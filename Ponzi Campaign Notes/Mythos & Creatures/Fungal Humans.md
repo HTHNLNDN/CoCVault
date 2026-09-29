@@ -13,8 +13,6 @@ tags: [mythos]
 - John's corpse covered in slimy fungal growth. ([[II-06 Chief Luther and Long-Armed John|II-06]])
 - John's remains sprout spores and flowers. ([[II-10 John, Shelly and Gloucester|II-10]])
 
-
-
 ## Threads
 - [[Long-Armed John's Return from the Dead]]
 

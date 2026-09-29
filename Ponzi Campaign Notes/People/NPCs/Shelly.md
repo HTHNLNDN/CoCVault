@@ -20,8 +20,6 @@ tags: [person]
 
 **On the [[Investigation Board]]:** "Maxton Gibson" is linked to "@Shelly".
 
-
-
 ## Threads
 - [[Long-Armed John's Return from the Dead]]
 

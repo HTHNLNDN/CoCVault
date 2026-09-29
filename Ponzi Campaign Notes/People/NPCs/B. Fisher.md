@@ -23,8 +23,6 @@ tags: [person]
 - [[The Bureau]]
 - [[Jimmy]]
 
-
-
 ## Threads
 - [[Who Killed Chief Luther]]
 

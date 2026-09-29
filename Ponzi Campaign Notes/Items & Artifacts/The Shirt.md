@@ -15,8 +15,6 @@ tags: [item]
 
 **On the [[Investigation Board]]:** ELI → "The Shirt in the Desert".
 
-
-
 ## Threads
 - [[The Shirt's Curse]]
 

@@ -20,8 +20,6 @@ tags: [person]
 - [[Walter]]
 - [[The Black]]
 
-
-
 ## Threads
 - [[Chase and Walter's Stolen Research]]
 

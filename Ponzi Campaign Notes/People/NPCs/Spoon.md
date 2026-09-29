@@ -13,8 +13,6 @@ tags: [person]
 - Shown to the team by [[Lexy Romano]]. ([[I-09 Eggventures of Chuckleberry Jim|I-09]])
 - Points them to [[Sticky Jack]] and [[Vince (The Spider)|Vince]]. ([[I-10 A Slim Chance of Shady|I-10]])
 
-
-
 ## Threads
 - [[Who Stole the Bureau's Items]]
 

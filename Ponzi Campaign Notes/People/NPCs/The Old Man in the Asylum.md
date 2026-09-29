@@ -19,8 +19,6 @@ tags: [person]
 - [[The Sigils]]
 - [[The Asylum]]
 
-
-
 ## Threads
 - [[What the Sleepers Want]]
 

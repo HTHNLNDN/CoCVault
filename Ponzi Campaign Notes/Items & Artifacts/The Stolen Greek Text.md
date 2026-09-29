@@ -16,8 +16,6 @@ tags: [item]
 - Stolen; translated by Dr. Stanley. ([[I-09 Eggventures of Chuckleberry Jim|I-09]])
 - Translation recovered from Sticky Jack; the text itself still missing. ([[I-11 Apartmentdox|I-11]])
 
-
-
 ## Threads
 - [[Recover the Stolen Greek Text and Coins]]
 

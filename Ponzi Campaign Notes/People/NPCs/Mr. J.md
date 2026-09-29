@@ -21,8 +21,6 @@ tags: [person]
 - [[The Never Man]]
 - [[The Chapters (Mob)]]
 
-
-
 ## Threads
 - [[Identity of Mr. J]]
 - [[Mr. J is Long-Armed John]]

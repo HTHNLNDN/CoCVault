@@ -17,8 +17,6 @@ tags: [item]
 - [[Jimmy]]
 - [[The Compass]]
 
-
-
 ## Threads
 - [[The Bureau Entrance Exam]]
 

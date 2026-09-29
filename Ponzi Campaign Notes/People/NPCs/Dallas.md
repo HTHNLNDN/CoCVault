@@ -23,12 +23,10 @@ tags: [person]
 - [[The Chapters (Mob)]]
 - [[Saltonstall]]
 
-
-
 ## Threads
 - [[Identity of Mr. J]]
-- [[Mr. J is Long-Armed John]]
 - [[Identity of the Never Man]]
+- [[Mr. J is Long-Armed John]]
 - [[Saltonstall's Role]]
 
 ## Appears in

@@ -14,8 +14,6 @@ tags: [place]
 - Fountain smashed; stones left. ([[I-15 Carrington my Wayward Son|I-15]])
 - Byakhee tracks link the island to "whatever's haunting the outskirts of the mansion". ([[I-19 Prismatic Shards|I-19]])
 
-
-
 ## Threads
 - [[The Carrington Vandalism]]
 

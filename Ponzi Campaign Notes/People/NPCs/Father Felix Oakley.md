@@ -26,8 +26,6 @@ tags: [person]
 - [[Sanctified Wax]]
 - [[Father Felix's Church]]
 
-
-
 ## Threads
 - [[Father Felix and the Angel]]
 

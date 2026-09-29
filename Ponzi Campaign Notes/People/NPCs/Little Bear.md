@@ -16,8 +16,6 @@ tags: [person]
 - [[The Shirt]]
 - [[The Prairie]]
 
-
-
 ## Threads
 - [[The Shirt's Curse]]
 

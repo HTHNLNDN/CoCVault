@@ -25,8 +25,6 @@ tags: [person]
 - [[Ponzi's Letter to Martha]]
 - [[Purifying Flame]]
 
-
-
 ## Threads
 - [[Purify Ponzi's Wife and Child]]
 - [[The Rotting Woman in Ponzi's House]]

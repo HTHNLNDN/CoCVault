@@ -14,8 +14,6 @@ tags: [mythos]
 - A congregation to contain the angel. ([[II-05 Father Felix|II-05]])
 - Instructions on how to consume one of the angels. ([[II-07 The Bible and the Everliving Flame|II-07]])
 
-
-
 ## Threads
 - [[Father Felix and the Angel]]
 

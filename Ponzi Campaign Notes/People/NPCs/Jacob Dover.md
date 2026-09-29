@@ -27,13 +27,11 @@ tags: [person]
 - [[The Slaughterhouse]]
 - [[William Charles Ponzi]] — vendetta
 
-
-
 ## Threads
-- [[Dover's Vendetta]]
 - [[Arthur's Stranger]]
-- [[Dover's Father's Stories]]
 - [[Dover as the Thief]]
+- [[Dover's Father's Stories]]
+- [[Dover's Vendetta]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

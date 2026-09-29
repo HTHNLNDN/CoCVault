@@ -14,8 +14,7 @@ tags: [mythos]
 - Innsmouth locals, distrustful. ([[I-23 In Insmuth|I-23]])
 - One drops through the car roof. ([[I-25 Dreamers Abound|I-25]])
 - Verse: "fresh fish and the Marsh heir". ([[II-13 Fresh Fish of Marsh Heir|II-13]])
-
-
+- An order of [[Deep Ones]] serves Cthulhu; many under-water cities pray to Dagon. *(speculation: these are the Innsmouth fish people)* ([[II-16 The Cult of Cthulhu|II-16]])
 
 ## Threads
 - [[Sebastian the Marsh Heir]]

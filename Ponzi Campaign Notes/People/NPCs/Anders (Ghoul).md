@@ -17,8 +17,6 @@ tags: [person]
 - [[Ghouls (The Dogs)]]
 - [[Gloucester]]
 
-
-
 ## Threads
 - [[Operation Last Supper and the Gloucester Dogs]]
 

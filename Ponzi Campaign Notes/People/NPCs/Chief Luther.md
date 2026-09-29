@@ -25,8 +25,6 @@ tags: [person]
 - [[Gates]]
 - [[B. Fisher]]
 
-
-
 ## Threads
 - [[The Case against Arthur Wakefield]]
 - [[Who Killed Chief Luther]]

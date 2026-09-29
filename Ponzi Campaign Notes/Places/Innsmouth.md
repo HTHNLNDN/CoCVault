@@ -14,13 +14,12 @@ tags: [place]
 - High priest [[Jeremiah]]; a fish-man falls through the car roof. ([[I-25 Dreamers Abound|I-25]])
 - Sebastian's verse: hotel-room mob chase, 9-ft octopus, church chant. ([[II-13 Fresh Fish of Marsh Heir|II-13]])
 - Asked about at the university. ([[II-12 The Forbidden Library|II-12]])
+- Its stones carry a prophecy: Cthulhu will rise when the distant lights align. → [[The Innsmouth Stones]] ([[II-17 The Prophecy of the Stones|II-17]])
 
 ## Connections
 - [[Fish People]]
 - [[Innsmouth Gold Coins]]
 - [[The Chapters (Mob)]] — Chapter 31: Innsmouth Gold
-
-
 
 ## Threads
 - [[Arthur's Innsmouth Task]]
@@ -32,3 +31,4 @@ tags: [place]
 - [[I-25 Dreamers Abound]] — Early July 1924
 - [[II-12 The Forbidden Library]] — Wed 30 – Thu 31 July 1924
 - [[II-13 Fresh Fish of Marsh Heir]] — —
+- [[II-17 The Prophecy of the Stones]] — Mon 4 August 1924

@@ -20,11 +20,9 @@ tags: [person]
 - [[The Dragon (Byakhee)]]
 - [[The Marsh Wizard of Ipswich]]?
 
-
-
 ## Threads
-- [[The Carrington Vandalism]]
 - [[Albert Hackett and the Marsh Wizard]]
+- [[The Carrington Vandalism]]
 
 ## Appears in
 - [[I-15 Carrington my Wayward Son]] — June 1924

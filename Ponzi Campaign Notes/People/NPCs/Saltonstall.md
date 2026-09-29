@@ -18,8 +18,6 @@ tags: [person]
 - [[Dallas]]
 - [[The Chapters (Mob)]]
 
-
-
 ## Threads
 - [[Saltonstall's Role]]
 

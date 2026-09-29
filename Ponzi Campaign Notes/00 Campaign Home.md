@@ -6,8 +6,8 @@ tags: [meta, home]
 
 ![[a18-sleeper-will-wake.jpg|180]] ![[a06-red-eyes-lighthouse.jpg|420]]
 
-> [!abstract] Where we are (end of July 1924)
-> [[William Charles Ponzi|Ponzi]], the conman who wrote Notebook I, has **deserted [[The Bureau]]** after falling to [[The Black]], [[The Sigils|the sigils]] and [[The Jewelled Skull|skulls]]. [[Arthur Wakefield|Arthur]] is dead; [[Delila Arlington|Delila]] was last seen in Arkham. [[TJ]] and [[Sebastian Blackwood|Sebastian]] now work with a new recruit (the [[Notebook II Narrator]]). Ponzi's family has been purified, and his price was a lead: **the beast is in [[Blackwood Forest]]**. Meanwhile [[Elias]] was framed with a mask, [[Chief Luther]] is dead, and nobody knows who [[Mr. J]] is.
+> [!abstract] Where we are (early August 1924)
+> [[William Charles Ponzi|Ponzi]], the conman who wrote Notebook I, has **deserted [[The Bureau]]** after falling to [[The Black]], [[The Sigils|the sigils]] and [[The Jewelled Skull|skulls]]. [[Arthur Wakefield|Arthur]] is dead; [[Delila Arlington|Delila]] was last seen in Arkham. [[TJ]] and [[Sebastian Blackwood|Sebastian]] now work with a new recruit (the [[Notebook II Narrator]]). Ponzi's family has been purified, and his price was a lead: **the beast is in [[Blackwood Forest]]**. Meanwhile [[Elias]] was framed with a mask, [[Chief Luther]] is dead, and nobody knows who [[Mr. J]] is. In early August the narrator learned that **the Dreamer is [[Cthulhu]]**, and the [[The Innsmouth Stones|Innsmouth stones]] prophesy that he will rise **when the distant lights align**. See [[The Prophecy of the Stones]].
 
 ## Start here
 - 🧭 [[Open Threads and Clues]] — live lists of open, in-progress, resolved and dead-end threads
@@ -58,7 +58,7 @@ tags: [meta, home]
 | [[I-24 The Last Straw\|I-24]] | The Last Straw | Early July 1924 |
 | [[I-25 Dreamers Abound\|I-25]] | Dreamers Abound | Early July 1924 |
 
-## Notebook II — July 1924
+## Notebook II — July–August 1924
 | # | Chapter | When |
 |---|---|---|
 | [[II-01 The Meeting\|II-01]] | The Meeting | Fri 4 – Sun 6 July 1924 |
@@ -74,6 +74,10 @@ tags: [meta, home]
 | [[II-11 The Purification\|II-11]] | The Purification | Tue 29 July 1924 |
 | [[II-12 The Forbidden Library\|II-12]] | The Forbidden Library | Wed 30 – Thu 31 July 1924 |
 | [[II-13 Fresh Fish of Marsh Heir\|II-13]] | Fresh Fish of Marsh Heir | — |
+| [[II-14 The Gospels of the Dreamer\|II-14]] | The Gospels of the Dreamer | Fri 1 August 1924 |
+| [[II-15 The Gates and the Children\|II-15]] | The Gates and the Children | Sat 2 August 1924 |
+| [[II-16 The Cult of Cthulhu\|II-16]] | The Cult of Cthulhu | Sun 3 August 1924 |
+| [[II-17 The Prophecy of the Stones\|II-17]] | The Prophecy of the Stones | Mon 4 August 1924 |
 
 > [!tip] Seeing the connections
 > - **Graph view** opens as a colour-coded case web (threads + people): 🔴 open, 🟠 in progress, 🟢 resolved, ⚫ dead end or dead. See [[How to Read the Graph]].

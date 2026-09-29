@@ -19,8 +19,6 @@ tags: [person]
 - [[The Black]]
 - [[The University (Arkham)]]
 
-
-
 ## Threads
 - [[The Case against Arthur Wakefield]]
 - [[Where the Black Comes From]]

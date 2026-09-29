@@ -22,8 +22,6 @@ tags: [person]
 
 **On the [[Investigation Board]]:** TJ → The MOB → "Maxton Gibson" → "@Shelly".
 
-
-
 ## Threads
 - [[Identity of Mr. J]]
 - [[Maxwell Gibson's Death]]

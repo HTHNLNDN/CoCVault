@@ -60,16 +60,14 @@ tags: [person, pc, party]
 
 **Manias:** Skulls · Enclosed spaces · Must buy something.
 
-
-
 ## Threads
 - [[Dover's Vendetta]]
-- [[Where Ponzi Is]]
-- [[Purify Ponzi's Wife and Child]]
 - [[Ponzi's Hidden Skulls]]
 - [[Ponzi's Promise to Hopkins]]
 - [[Ponzi's Tattoos and the Sigils]]
+- [[Purify Ponzi's Wife and Child]]
 - [[The Black Forest Beast]]
+- [[Where Ponzi Is]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

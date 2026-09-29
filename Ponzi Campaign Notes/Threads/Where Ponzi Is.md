@@ -19,7 +19,7 @@ tags: [thread]
 - Delivers his family on two Nile crocodiles. ([[II-11 The Purification|II-11]])
 
 ## Where it stands
-In contact, but never met in person. The Bureau wants him found before it learns he deserted (II-04).
+In contact, but never met in person. *(speculation: the [[Send Dream]] spell would explain his night visits.)* The Bureau wants him found before it learns he deserted (II-04).
 
 ## Linked notes
 [[William Charles Ponzi]] · [[Gates]] · [[The Bureau]]

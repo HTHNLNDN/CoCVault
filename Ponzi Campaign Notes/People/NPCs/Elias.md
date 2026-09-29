@@ -24,8 +24,6 @@ tags: [person]
 - [[Otis]]
 - [[Mortimer]]
 
-
-
 ## Threads
 - [[The Framing of Elias]]
 

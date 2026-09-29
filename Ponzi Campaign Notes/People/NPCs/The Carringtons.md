@@ -22,8 +22,6 @@ tags: [person]
 - [[Dragon Eggs]]
 - [[Albert Hackett]]
 
-
-
 ## Threads
 - [[The Carrington Vandalism]]
 

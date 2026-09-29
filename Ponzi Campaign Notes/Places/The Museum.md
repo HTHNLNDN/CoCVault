@@ -14,8 +14,6 @@ tags: [place]
 ## Connections
 - [[Innsmouth Gold Coins]]
 
-
-
 ## Threads
 - [[Recover the Stolen Greek Text and Coins]]
 

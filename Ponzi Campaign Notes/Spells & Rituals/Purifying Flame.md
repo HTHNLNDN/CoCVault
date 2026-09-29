@@ -18,8 +18,6 @@ tags: [spell]
 
 **On the [[Investigation Board]]:** PONZI → "Cleanse" (Begun → Done) —clue→ The Monster of the Black Forest.
 
-
-
 ## Threads
 - [[Purify Ponzi's Wife and Child]]
 

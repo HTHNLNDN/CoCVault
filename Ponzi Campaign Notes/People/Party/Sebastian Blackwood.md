@@ -28,6 +28,7 @@ tags: [person, pc, party]
 - One of his staff burns up in the purification. ([[II-11 The Purification|II-11]])
 - A professor knows him; he finds a way to control an eldritch being. ([[II-12 The Forbidden Library|II-12]])
 - Verse: grandpa planned his days, his **sister "went to the moon"**, Jimmy sent him to Innsmouth with one coin; he became "the Marsh heir". ([[II-13 Fresh Fish of Marsh Heir|II-13]])
+- Not at the breakfast table. ([[II-15 The Gates and the Children|II-15]])
 
 ## Connections
 - [[Blackwood Estate]] — home
@@ -36,13 +37,11 @@ tags: [person, pc, party]
 
 **On the [[Investigation Board]]:** Sebastian → "Dogs" (in Gloucester) · "Marriage".
 
-
-
 ## Threads
-- [[Operation Last Supper and the Gloucester Dogs]]
-- [[The Society Lady Who Wants TJ]]
 - [[G-Man and Jeremiah's Debt]]
+- [[Operation Last Supper and the Gloucester Dogs]]
 - [[Sebastian the Marsh Heir]]
+- [[The Society Lady Who Wants TJ]]
 
 ## Appears in
 - [[I-10 A Slim Chance of Shady]] — Spring 1924 (Arkham)
@@ -62,3 +61,4 @@ tags: [person, pc, party]
 - [[II-11 The Purification]] — Tue 29 July 1924
 - [[II-12 The Forbidden Library]] — Wed 30 – Thu 31 July 1924
 - [[II-13 Fresh Fish of Marsh Heir]] — —
+- [[II-15 The Gates and the Children]] — Sat 2 August 1924

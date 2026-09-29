@@ -11,8 +11,6 @@ tags: [place]
 ## What we know
 - Corpse, mask, bounty hunters. ([[II-09 Mortimer, the Mask and the Chapters|II-09]])
 
-
-
 ## Threads
 - [[The Framing of Elias]]
 

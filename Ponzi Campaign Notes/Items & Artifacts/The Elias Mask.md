@@ -15,8 +15,6 @@ tags: [item]
 - [[Elias]]
 - [[The Ex-Mob Warehouse]]
 
-
-
 ## Threads
 - [[The Framing of Elias]]
 

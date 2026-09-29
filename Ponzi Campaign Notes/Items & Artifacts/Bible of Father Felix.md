@@ -24,8 +24,6 @@ tags: [item]
 
 Full text: [[Handout - Bible of Father Felix]].
 
-
-
 ## Threads
 - [[Father Felix and the Angel]]
 

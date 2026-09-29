@@ -13,8 +13,6 @@ tags: [item]
 
 > [!question] Are these the same as the pearlescent [[Dragon Eggs]]? (I-19 is titled "Prismatic Shards".)
 
-
-
 ## Threads
 - [[Crystals, Eggs and the Gold Forge]]
 

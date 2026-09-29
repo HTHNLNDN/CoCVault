@@ -16,8 +16,6 @@ tags: [person]
 - [[The Jersey Devil]]
 - [[New Jersey]]
 
-
-
 ## Threads
 - [[The Jersey Devil Hunt]]
 

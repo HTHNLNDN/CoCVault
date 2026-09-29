@@ -16,8 +16,6 @@ tags: [mythos]
 - [[Helga]]
 - [[Shelly's Facility]]
 
-
-
 ## Threads
 - [[The Jersey Devil Hunt]]
 

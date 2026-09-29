@@ -17,8 +17,6 @@ tags: [person]
 - [[Innsmouth]]
 - [[G-Man]]
 
-
-
 ## Threads
 - [[G-Man and Jeremiah's Debt]]
 

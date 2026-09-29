@@ -19,8 +19,6 @@ tags: [handout]
 
 Facing page: a circular ritual seal. Author not stated. → [[The Black]], [[Bringing the Black Draught]]
 
-
-
 ## Threads
 - [[Where the Black Comes From]]
 

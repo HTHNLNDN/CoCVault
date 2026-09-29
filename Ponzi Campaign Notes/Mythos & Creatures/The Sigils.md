@@ -21,8 +21,6 @@ tags: [mythos]
 ## Sketches
 ![[a05-scroll-tenets.jpg|200]]
 
-
-
 ## Threads
 - [[Ponzi's Tattoos and the Sigils]]
 

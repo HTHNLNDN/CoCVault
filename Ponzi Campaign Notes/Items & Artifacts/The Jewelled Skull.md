@@ -25,8 +25,6 @@ tags: [item]
 - [[Hopkins]]
 - [[Ghouls (The Dogs)]]
 
-
-
 ## Threads
 - [[Ponzi's Hidden Skulls]]
 

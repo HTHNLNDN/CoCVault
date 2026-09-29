@@ -15,8 +15,6 @@ tags: [place]
 - [[Ghouls (The Dogs)]]
 - [[Anders (Ghoul)]]
 
-
-
 ## Threads
 - [[Operation Last Supper and the Gloucester Dogs]]
 

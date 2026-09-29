@@ -18,8 +18,7 @@ tags: [place]
 - Vince "the Spider" hangs around. ([[I-10 A Slim Chance of Shady|I-10]])
 - A professor who knows Sebastian opens the restricted library; the forbidden section is next. ([[II-12 The Forbidden Library|II-12]])
 - [[German Spellbook]] found in the library. ([[II-12 The Forbidden Library|II-12]])
-
-
+- The narrator studies there alone. ([[II-15 The Gates and the Children|II-15]])
 
 ## Threads
 - [[Dover's Father's Stories]]
@@ -30,3 +29,4 @@ tags: [place]
 - [[I-08 It's Just Jimmy]] — Spring 1924 (Arkham)
 - [[I-10 A Slim Chance of Shady]] — Spring 1924 (Arkham)
 - [[II-12 The Forbidden Library]] — Wed 30 – Thu 31 July 1924
+- [[II-15 The Gates and the Children]] — Sat 2 August 1924

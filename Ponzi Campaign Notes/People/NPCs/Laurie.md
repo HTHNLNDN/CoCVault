@@ -12,8 +12,6 @@ tags: [person]
 ## What we know
 - Picks a fight; loses; pictures taken from his pocket. ([[II-08 The Framing of Elias|II-08]])
 
-
-
 ## Threads
 - [[Laurie's Photographs]]
 

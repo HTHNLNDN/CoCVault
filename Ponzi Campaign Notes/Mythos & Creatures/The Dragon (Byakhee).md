@@ -22,11 +22,9 @@ tags: [mythos]
 - [[The Marsh Wizard of Ipswich]]
 - [[Albert Hackett]]
 
-
-
 ## Threads
-- [[The Carrington Vandalism]]
 - [[Albert Hackett and the Marsh Wizard]]
+- [[The Carrington Vandalism]]
 
 ## Appears in
 - [[I-16 Mary Marry Maybe]] — June 1924

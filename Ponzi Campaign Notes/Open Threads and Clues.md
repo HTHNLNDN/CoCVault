@@ -26,7 +26,7 @@ Every loose thread is its own note in `Threads/`, with a `status` property: **op
 - **Ponzi:** [[Where Ponzi Is]] · [[Purify Ponzi's Wife and Child]] · [[The Rotting Woman in Ponzi's House]] · [[Ponzi's Hidden Skulls]] · [[Ponzi's Promise to Hopkins]] · [[Ponzi's Tattoos and the Sigils]]
 - **The Hunt:** [[The Jersey Devil Hunt]] · [[The Black Forest Beast]] · [[The Shirt's Curse]]
 - **Innsmouth:** [[Arthur's Innsmouth Task]] · [[G-Man and Jeremiah's Debt]] · [[Sebastian the Marsh Heir]] · [[Crystals, Eggs and the Gold Forge]]
-- **The Mythos:** [[What the Sleepers Want]] · [[Long-Armed John's Return from the Dead]] · [[Father Felix and the Angel]] · [[The Unidentified Photographs]]
+- **The Mythos:** [[What the Sleepers Want]] · [[The Prophecy of the Stones]] · [[The Gates on the Stones]] · [[Long-Armed John's Return from the Dead]] · [[Father Felix and the Angel]] · [[The Unidentified Photographs]]
 - **Corpus Christi:** [[The Carrington Vandalism]] · [[Albert Hackett and the Marsh Wizard]]
 - **Arkham:** [[Dover's Vendetta]] · [[The Case against Arthur Wakefield]] · [[Arthur's Stranger]] · [[How Arthur Died]] · [[Where the Black Comes From]] · [[Chase and Walter's Stolen Research]] · [[The Man Who Fell from the Sky]] · [[Dover's Father's Stories]] · [[Delila's Secrets]] · [[Who Keeser Is]]
 

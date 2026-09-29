@@ -15,8 +15,6 @@ tags: [item]
 - [[Innsmouth Gold Coins]]
 - [[The Chapters (Mob)]]
 
-
-
 ## Threads
 - [[Crystals, Eggs and the Gold Forge]]
 
