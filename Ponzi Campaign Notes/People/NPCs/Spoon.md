@@ -14,7 +14,7 @@ tags: [person]
 - Points them to [[Sticky Jack]] and [[Vince (The Spider)|Vince]]. ([[I-10 A Slim Chance of Shady|I-10]])
 
 ## Threads
-- [[Who Stole the Bureau's Items]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-09 Eggventures of Chuckleberry Jim]] — Spring 1924 (Arkham)

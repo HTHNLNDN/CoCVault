@@ -15,7 +15,7 @@ tags: [place]
 - Byakhee tracks link the island to "whatever's haunting the outskirts of the mansion". ([[I-19 Prismatic Shards|I-19]])
 
 ## Threads
-- [[The Carrington Vandalism]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-15 Carrington my Wayward Son]] — June 1924

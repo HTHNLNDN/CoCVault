@@ -31,8 +31,7 @@ tags: [person, pc, party]
 - Translates the prophecy on [[The Innsmouth Stones]]. ([[II-17 The Prophecy of the Stones|II-17]])
 
 ## Threads
-- [[The Black Forest Beast]]
-- [[The Shirt's Curse]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-01 The Meeting]] — Fri 4 – Sun 6 July 1924

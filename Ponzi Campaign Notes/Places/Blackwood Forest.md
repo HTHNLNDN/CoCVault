@@ -16,8 +16,7 @@ tags: [place]
 **On the [[Investigation Board]]:** ELI → "The Monster of the Black Forest" → "New Moon[?] Blackwood Forest".
 
 ## Threads
-- [[Purify Ponzi's Wife and Child]]
-- [[The Black Forest Beast]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-07 The Bible and the Everliving Flame]] — Mon 21 – Wed 23 July 1924

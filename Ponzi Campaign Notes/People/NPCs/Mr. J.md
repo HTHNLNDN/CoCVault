@@ -22,8 +22,7 @@ tags: [person]
 - [[The Chapters (Mob)]]
 
 ## Threads
-- [[Identity of Mr. J]]
-- [[Mr. J is Long-Armed John]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-05 Father Felix]] — Fri 18 July 1924

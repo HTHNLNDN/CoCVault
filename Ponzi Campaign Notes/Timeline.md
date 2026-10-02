@@ -58,6 +58,7 @@ Dates are as written in the journals (the Notebook II author occasionally miswri
 | Fri 25 Jul | [[Peterson]], [[Fowler]], socialite party, [[Laurie]]; [[Dallas]] taken. | II-08 |
 | Sat 26 Jul | Dallas → [[Jimmy's Vault]]. [[Mortimer]]; [[The Elias Mask]] found. | II-08 – [[II-09 Mortimer, the Mask and the Chapters\|II-09]] |
 | Sun 27 – Mon 28 Jul | [[The Chapters (Mob)\|The Chapters]] mapped; Dallas released. John traded to [[Shelly]]; dogs to [[Gloucester]]. | II-09 – [[II-10 John, Shelly and Gloucester\|II-10]] |
+| later | **[[Elias]] found not guilty** (player note; date not in the journal). | — |
 | Tue 29 Jul | **Purification** of Ponzi's wife & child; beast is in [[Blackwood Forest]]. | [[II-11 The Purification\|II-11]] |
 | Wed 30 – Thu 31 Jul | Restricted library; **Mr. J ≠ John**; [[German Spellbook]]. | [[II-12 The Forbidden Library\|II-12]] |
 | Fri 1 Aug | The dogs leave the estate. Gospels of the Dreamer; [[The Voorish Sign]], [[Ritual Dagger Enchantment]]. | [[II-14 The Gospels of the Dreamer\|II-14]] |

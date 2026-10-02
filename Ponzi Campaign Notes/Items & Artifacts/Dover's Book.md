@@ -16,7 +16,7 @@ tags: [item]
 - Burned. ([[I-06 The Cliffs of Dover|I-06]])
 
 ## Threads
-- [[Dover's Vendetta]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

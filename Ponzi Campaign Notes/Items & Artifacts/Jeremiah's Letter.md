@@ -17,7 +17,7 @@ tags: [item]
 - [[Sebastian Blackwood]]
 
 ## Threads
-- [[G-Man and Jeremiah's Debt]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-25 Dreamers Abound]] — Early July 1924

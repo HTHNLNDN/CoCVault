@@ -23,8 +23,7 @@ tags: [mythos]
 - [[Albert Hackett]]
 
 ## Threads
-- [[Albert Hackett and the Marsh Wizard]]
-- [[The Carrington Vandalism]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-16 Mary Marry Maybe]] — June 1924

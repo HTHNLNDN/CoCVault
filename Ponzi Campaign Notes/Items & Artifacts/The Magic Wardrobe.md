@@ -18,7 +18,7 @@ tags: [item]
 - [[The Compass]]
 
 ## Threads
-- [[The Bureau Entrance Exam]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-12 The Liar, the Snitch and the Wardrobe]] — Spring 1924

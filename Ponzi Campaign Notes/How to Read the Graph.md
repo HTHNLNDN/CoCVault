@@ -35,6 +35,7 @@ Paste one of these into the graph's **Filters → Search files** box:
 | Everything, journal included | *(empty)* |
 
 - **One mystery at a time:** open a thread (e.g. [[Identity of Mr. J]]) and open its **local graph** from the ⋯ menu. At depth 2 you see everyone and everything tangled in it, including places and items.
+- Every person, place and item note has a **Threads** table at the bottom showing the live status of each mystery it's part of.
 - The **[[Case Board.base|Case Board]]** has the same information as tables: open threads grouped by arc, everything in progress, resolved threads, dead ends, and the cast grouped by alive/dead/missing/captive/unknown.
 
 ## Keeping it up to date (works on iPhone)

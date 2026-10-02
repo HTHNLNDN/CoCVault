@@ -19,7 +19,7 @@ tags: [mythos]
 - [[Fish People]] — *(speculation)* probably the same as the Innsmouth fish people
 
 ## Threads
-- [[The Prophecy of the Stones]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-16 The Cult of Cthulhu]] — Sun 3 August 1924

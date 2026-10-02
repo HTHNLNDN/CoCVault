@@ -35,8 +35,7 @@ tags: [person]
 - [[Jimmy's Vault]]
 
 ## Threads
-- [[Ponzi's Hidden Skulls]]
-- [[The Bureau Entrance Exam]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-07 The Cliffs are Dover]] — Spring 1924 (Arkham)

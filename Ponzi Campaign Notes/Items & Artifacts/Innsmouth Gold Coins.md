@@ -15,9 +15,7 @@ tags: [item]
 - Chapter 31: Innsmouth Gold. ([[II-09 Mortimer, the Mask and the Chapters|II-09]])
 
 ## Threads
-- [[Arthur's Innsmouth Task]]
-- [[Crystals, Eggs and the Gold Forge]]
-- [[Recover the Stolen Greek Text and Coins]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-09 Eggventures of Chuckleberry Jim]] — Spring 1924 (Arkham)

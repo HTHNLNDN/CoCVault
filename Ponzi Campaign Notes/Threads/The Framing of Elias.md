@@ -1,6 +1,6 @@
 ---
 type: thread
-status: partial
+status: resolved
 arc: The Mob
 opened: "[[II-08 The Framing of Elias]]"
 last_update: "[[II-09 Mortimer, the Mask and the Chapters]]"
@@ -16,9 +16,12 @@ tags: [thread]
 - [[Fowler]] is sure Elias was *placed* to be photographed. ([[II-08 The Framing of Elias|II-08]])
 - Alibis for 22 Jan (solid) and 9 Jan (weaker). ([[II-09 Mortimer, the Mask and the Chapters|II-09]])
 - A weeks-old corpse in the warehouse wore [[The Elias Mask]]. ([[II-09 Mortimer, the Mask and the Chapters|II-09]])
+- Elias is found not guilty. (player note, 2 Oct 2026)
 
 ## Where it stands
-Acquittal looks close. **Still unknown:** whose corpse, who wore the mask, and why Elias.
+**Concluded: Elias was found not guilty.** (player note, 2 Oct 2026)
+
+Never answered: whose corpse was in the shaft, who wore [[The Elias Mask]], and why Elias was the target.
 
 ## Linked notes
 [[Elias]] · [[Photographs of Elias]] · [[The Elias Mask]] · [[Mortimer]] · [[Otis]] · [[Fowler]] · [[The Ex-Mob Warehouse]] · [[TJ]]

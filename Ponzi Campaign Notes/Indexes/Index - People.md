@@ -30,7 +30,7 @@ tags: [index]
 | [[Dallas]] | Texas gangster of [[The Chapters (Mob)\|the mob]]. | Alive — released via B. Fisher (II-09) |
 | [[Dr. Chase]] | Biologist who took in [[Walter]]. | Alive |
 | [[Dr. Stanley]] | Translated the stolen Greek text (a book on mathematics: geometries, sun & moon, symbols). | alive |
-| [[Elias]] | TJ's friend, jailed as the "head honcho" of Chapter 3 on faked photographic evidence — someone wore [[The Elias Mask\|a mask of his face]]. | Jailed — acquittal looking likely |
+| [[Elias]] | TJ's friend, framed and jailed as the "head honcho" of Chapter 3 on faked photographic evidence, and found not guilty — someone wore [[The Elias Mask\|a mask of his face]]. | Acquitted — found not guilty |
 | [[Eves]] | Briefed the team in Corpus Christi on the Carrington vandalism. | alive |
 | [[Father Felix Oakley]] | Austin preacher who believed the world should have ended "5 years ago", claimed an angel visited him, kept an undying flame and burnt bodies in his basement. | Dead (II-05) |
 | [[Fowler]] | Certain that Elias was deliberately placed to be photographed. | alive |
@@ -39,7 +39,6 @@ tags: [index]
 | [[Helga]] | Elder forest dweller in New Jersey, found inside a great circle of effigies. | alive |
 | [[Hernandez]] | Police officer, with [[Jaylin Baker]]. | alive |
 | [[Hopkins]] | A 2-metre, dog-faced [[Ghouls (The Dogs)\|ghoul]] in a stretched suit, living under Corpus Christi. | alive |
-| [[The Innsmouth Shop Lady]] | Stout little shopkeeper in Innsmouth who only accepts things or information in trade. | alive |
 | [[Jacob Dover]] | Owner of [[The Slaughterhouse]] with a vendetta against Ponzi, who once sold his dying mother a useless cure. | Dead (I-06) |
 | [[Jaylin Baker]] | Police officer who talked to the team about grave robbers. | alive |
 | [[Jeremiah]] | One of the Innsmouth high priests — "a kind man, it seems". | alive |
@@ -49,7 +48,7 @@ tags: [index]
 | [[Lexy Romano]] | Contact at [[The Sycamore]] who introduced the team to [[Spoon]]. | alive |
 | [[Little Bear]] | Told the narrator the origin of [[The Shirt]] and how to make it safe. | alive |
 | [[Long-Armed John]] | Mob enforcer who hunted [[TJ]]. | In Bureau custody (II-12) — dead? re-animated? |
-| [[Madam Coral]] | Someone who once spoke of an 8th gate (name hard to read — "Madam Corel"). | unknown |
+| [[Madam Coral]] | Stout little shopkeeper in [[Innsmouth]] who only trades for things or information, and clearly has an agenda. | alive |
 | [[Martha Ponzi]] | Ponzi's wife in Alabama, mother of his child. | Purified (II-11) — condition unknown |
 | [[Maxwell Gibson]] | TJ's contact in Houston — dead by the time the team arrived. | Dead (II-05) |
 | [[Mortimer]] | Elias's new lawyer — heavyset, round glasses, bow tie. | alive |

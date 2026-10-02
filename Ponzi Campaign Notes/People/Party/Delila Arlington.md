@@ -28,7 +28,7 @@ tags: [person, pc, party]
 ![[a05-delila-the-shiv.jpg|200]] ![[a04-delila-void-horse.jpg|200]]
 
 ## Threads
-- [[Delila's Secrets]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

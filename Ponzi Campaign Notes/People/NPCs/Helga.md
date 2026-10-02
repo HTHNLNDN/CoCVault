@@ -17,7 +17,7 @@ tags: [person]
 - [[New Jersey]]
 
 ## Threads
-- [[The Jersey Devil Hunt]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-02 The Jersey Devil]] — Mon 7 July 1924

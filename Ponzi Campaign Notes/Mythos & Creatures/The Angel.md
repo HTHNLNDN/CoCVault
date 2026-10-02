@@ -15,7 +15,7 @@ tags: [mythos]
 - Instructions on how to consume one of the angels. ([[II-07 The Bible and the Everliving Flame|II-07]])
 
 ## Threads
-- [[Father Felix and the Angel]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-04 The Search for Ponzi]] — Mon 14 – Wed 17 July 1924

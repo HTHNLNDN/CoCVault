@@ -40,11 +40,7 @@ tags: [person, pc, party]
 - [[The Compass]] — carries it
 
 ## Threads
-- [[Maxwell Gibson's Death]]
-- [[The Framing of Elias]]
-- [[The Man Who Fell from the Sky]]
-- [[The Mob's Hunt for TJ]]
-- [[The Society Lady Who Wants TJ]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

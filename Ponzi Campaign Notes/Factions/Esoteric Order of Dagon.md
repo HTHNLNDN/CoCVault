@@ -19,8 +19,7 @@ tags: [faction]
 - [[Innsmouth]] — *(speculation)* the Innsmouth church and its high priests, e.g. [[Jeremiah]]
 
 ## Threads
-- [[The Prophecy of the Stones]]
-- [[What the Sleepers Want]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-16 The Cult of Cthulhu]] — Sun 3 August 1924

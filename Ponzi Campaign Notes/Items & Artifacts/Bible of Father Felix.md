@@ -25,7 +25,7 @@ tags: [item]
 Full text: [[Handout - Bible of Father Felix]].
 
 ## Threads
-- [[Father Felix and the Angel]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-05 Father Felix]] — Fri 18 July 1924

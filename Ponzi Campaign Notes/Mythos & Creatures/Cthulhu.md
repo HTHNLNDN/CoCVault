@@ -24,8 +24,7 @@ tags: [mythos]
 > *"That which is not dead, and can eternally lie, eventually even Death can die."* ([[II-16 The Cult of Cthulhu|II-16]])
 
 ## Threads
-- [[The Prophecy of the Stones]]
-- [[What the Sleepers Want]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-15 The Gates and the Children]] — Sat 2 August 1924

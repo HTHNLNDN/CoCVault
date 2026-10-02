@@ -25,7 +25,7 @@ Scheming, preening, breaking the rules. Wondering why my sister went to the moon
 When a couple of guys who were up to no good, dragged me off to the poor neighborhood.
 I got one little coin, and [[Jimmy]] said "you're going to [[Innsmouth]] or it will be the end of your days".
 
-So I took my crew and my car drove for a day, went to a shop, and the car broke in a suspicious way. → [[The Innsmouth Shop Lady]]
+So I took my crew and my car drove for a day, went to a shop, and the car broke in a suspicious way. → [[Madam Coral]]
 Got a hint and went to the hotel room. Found myself chased by a mob "is this my doom?".
 
 Chased around by an eldritch creature. Got into a basement with some weird stone feature.

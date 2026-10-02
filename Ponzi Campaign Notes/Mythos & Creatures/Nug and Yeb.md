@@ -21,7 +21,7 @@ tags: [mythos]
 > In the published mythos, Nug fathered Cthulhu and Yeb fathered **Tsathoggua**, which is probably the name read as "Sathshohau".
 
 ## Threads
-- [[The Gates on the Stones]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-15 The Gates and the Children]] — Sat 2 August 1924

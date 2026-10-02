@@ -34,10 +34,7 @@ tags: [person, pc, party]
 - [[Arthur's Belongings]]
 
 ## Threads
-- [[Arthur's Innsmouth Task]]
-- [[Arthur's Stranger]]
-- [[How Arthur Died]]
-- [[The Case against Arthur Wakefield]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

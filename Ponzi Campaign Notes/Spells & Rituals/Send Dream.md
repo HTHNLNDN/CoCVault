@@ -18,7 +18,7 @@ tags: [spell]
 > Ponzi keeps "visiting" the narrator at night ([[II-07 The Bible and the Everliving Flame|II-07]], [[II-11 The Purification|II-11]]). A spell like this would explain it. See [[Where Ponzi Is]].
 
 ## Threads
-- [[Where Ponzi Is]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-16 The Cult of Cthulhu]] — Sun 3 August 1924

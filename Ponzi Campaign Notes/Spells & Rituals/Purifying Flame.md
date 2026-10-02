@@ -19,7 +19,7 @@ tags: [spell]
 **On the [[Investigation Board]]:** PONZI → "Cleanse" (Begun → Done) —clue→ The Monster of the Black Forest.
 
 ## Threads
-- [[Purify Ponzi's Wife and Child]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-07 The Bible and the Everliving Flame]] — Mon 21 – Wed 23 July 1924

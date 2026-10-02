@@ -12,7 +12,7 @@ tags: [place]
 - Corpse, mask, bounty hunters. ([[II-09 Mortimer, the Mask and the Chapters|II-09]])
 
 ## Threads
-- [[The Framing of Elias]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-09 Mortimer, the Mask and the Chapters]] — Sat 26 – Mon 28 July 1924

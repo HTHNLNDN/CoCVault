@@ -21,8 +21,7 @@ tags: [item]
 > [!question] Probably the "weird stone feature" in the Innsmouth basement from Sebastian's verse ([[II-13 Fresh Fish of Marsh Heir|II-13]]).
 
 ## Threads
-- [[The Gates on the Stones]]
-- [[The Prophecy of the Stones]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-15 The Gates and the Children]] — Sat 2 August 1924

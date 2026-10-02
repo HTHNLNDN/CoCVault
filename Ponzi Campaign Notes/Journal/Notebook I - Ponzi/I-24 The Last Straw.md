@@ -26,7 +26,7 @@ As he was falling I ran for him, and all of a sudden I found myself in an office
 
 But first we took to the underground. We found a large system of caverns. [[Sebastian Blackwood|Sebastian]] went up a hatch, and found the forge they use for gold. It appears to run off of the crystals we first saw in [[Corpus Christi]]. We should take it with us. → [[Innsmouth Gold Forge]], [[Prismatic Crystals]]
 
-Before leaving we went to the shop, to tell [[The Innsmouth Shop Lady|the shop-lady]] what we knew.
+Before leaving we went to the shop, to tell [[Madam Coral|the shop-lady]] what we knew.
 
 ## Source scan
 ![[scan-A17.jpg]]

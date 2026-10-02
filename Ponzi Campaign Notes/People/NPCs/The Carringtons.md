@@ -23,7 +23,7 @@ tags: [person]
 - [[Albert Hackett]]
 
 ## Threads
-- [[The Carrington Vandalism]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-15 Carrington my Wayward Son]] — June 1924

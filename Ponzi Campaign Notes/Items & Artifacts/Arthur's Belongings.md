@@ -16,7 +16,7 @@ tags: [item]
 - [[The Black]]
 
 ## Threads
-- [[How Arthur Died]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-06 Chief Luther and Long-Armed John]] — Sat 19 – Sun 20 July 1924

@@ -23,8 +23,7 @@ tags: [person]
 **On the [[Investigation Board]]:** TJ → The MOB → "Maxton Gibson" → "@Shelly".
 
 ## Threads
-- [[Identity of Mr. J]]
-- [[Maxwell Gibson's Death]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-05 Father Felix]] — Fri 18 July 1924

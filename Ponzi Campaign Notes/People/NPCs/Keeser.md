@@ -15,7 +15,7 @@ tags: [person]
 - "Seems Keeser[?] is out to get us." ([[I-07 The Cliffs are Dover|I-07]])
 
 ## Threads
-- [[Who Keeser Is]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-07 The Cliffs are Dover]] — Spring 1924 (Arkham)

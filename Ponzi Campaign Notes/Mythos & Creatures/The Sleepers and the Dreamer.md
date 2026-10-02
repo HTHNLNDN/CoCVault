@@ -21,7 +21,7 @@ tags: [mythos]
 - Prophecy on the Innsmouth stones: Cthulhu will rise when the distant lights align; to stop it, find what bound the Dreamers. ([[II-17 The Prophecy of the Stones|II-17]])
 
 ## Threads
-- [[What the Sleepers Want]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-05 Cliffs before Dover]] — Spring 1924 (Arkham)

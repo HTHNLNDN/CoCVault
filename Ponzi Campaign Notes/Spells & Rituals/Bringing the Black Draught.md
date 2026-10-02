@@ -18,7 +18,7 @@ tags: [ritual]
 - [[Handout - Bringing the Black Draught]]
 
 ## Threads
-- [[Where the Black Comes From]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-14 Corpus Christi TX]] — 13 June 1924[?]

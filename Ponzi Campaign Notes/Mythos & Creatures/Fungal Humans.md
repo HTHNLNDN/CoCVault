@@ -14,7 +14,7 @@ tags: [mythos]
 - John's remains sprout spores and flowers. ([[II-10 John, Shelly and Gloucester|II-10]])
 
 ## Threads
-- [[Long-Armed John's Return from the Dead]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-02 The Jersey Devil]] — Mon 7 July 1924

@@ -21,7 +21,7 @@ tags: [place]
 - The dogs have left the estate. ([[II-14 The Gospels of the Dreamer|II-14]])
 
 ## Threads
-- [[Purify Ponzi's Wife and Child]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-22 Dog Water]] — June 1924

@@ -22,10 +22,7 @@ tags: [person]
 - [[Ghouls (The Dogs)]]
 
 ## Threads
-- [[Operation Last Supper and the Gloucester Dogs]]
-- [[Where Ponzi Is]]
-- [[Who Killed Chief Luther]]
-- [[Why Gates Buried the Longarm Case]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-22 Dog Water]] — June 1924

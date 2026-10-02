@@ -21,7 +21,7 @@ tags: [place]
 - The narrator studies there alone. ([[II-15 The Gates and the Children|II-15]])
 
 ## Threads
-- [[Dover's Father's Stories]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

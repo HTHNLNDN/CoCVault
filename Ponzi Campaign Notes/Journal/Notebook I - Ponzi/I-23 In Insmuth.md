@@ -12,7 +12,7 @@ tags: [journal, notebook-I, arc-innsmouth]
 > [!summary] At a glance
 > - The team finally goes to [[Innsmouth]] to finish the task Arthur was given ([[Innsmouth Gold Coins]]).
 > - Locals: bulging eyes, high foreheads, deeply distrustful → [[Fish People]].
-> - [[The Innsmouth Shop Lady]] trades only in things or information; Ponzi gets a hat and "finger-licking" cigarettes. She warns of car trouble — and the car is sabotaged (sugar in the motor).
+> - [[Madam Coral]] trades only in things or information; Ponzi gets a hat and "finger-licking" cigarettes. She warns of car trouble — and the car is sabotaged (sugar in the motor).
 
 ← [[I-22 Dog Water]] · Next → [[I-24 The Last Straw]]
 
@@ -23,7 +23,7 @@ After concluding that Innsmouth was the only way forward, we decided to finally 
 
 The people there look strange, bulging eyes, high foreheads, generally like they belong in the Appalachians. They are also incredibly distrustful. To think there could be such a cultural divide just an hour or so away. → [[Fish People]]
 
-When we arrived at the store the owner ran a strange store. They, a stout little woman, only accepted things or information. We bartered with her for a bit, I got myself a cool hat and a box of "finger-licking" cigarettes. → [[The Innsmouth Shop Lady]]
+When we arrived at the store the owner ran a strange store. They, a stout little woman, only accepted things or information. We bartered with her for a bit, I got myself a cool hat and a box of "finger-licking" cigarettes. → [[Madam Coral]]
 
 The lady clearly had an agenda, she warned us of car issues, and sure enough, when we went out the store the car was broken.
 

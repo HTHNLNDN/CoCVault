@@ -13,7 +13,7 @@ tags: [person]
 - Picks a fight; loses; pictures taken from his pocket. ([[II-08 The Framing of Elias|II-08]])
 
 ## Threads
-- [[Laurie's Photographs]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-08 The Framing of Elias]] — Thu 24 – Sat 26 July 1924

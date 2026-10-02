@@ -14,7 +14,7 @@ tags: [item]
 - Fed to triangulate Long-Armed John to Boston. ([[II-06 Chief Luther and Long-Armed John|II-06]])
 
 ## Threads
-- [[The Bureau Entrance Exam]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-12 The Liar, the Snitch and the Wardrobe]] — Spring 1924

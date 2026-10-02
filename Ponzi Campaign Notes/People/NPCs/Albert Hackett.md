@@ -21,8 +21,7 @@ tags: [person]
 - [[The Marsh Wizard of Ipswich]]?
 
 ## Threads
-- [[Albert Hackett and the Marsh Wizard]]
-- [[The Carrington Vandalism]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-15 Carrington my Wayward Son]] — June 1924

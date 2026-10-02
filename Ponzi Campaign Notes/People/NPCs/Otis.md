@@ -14,7 +14,7 @@ tags: [person]
 - The team visits his office to meet the new lawyer. ([[II-09 Mortimer, the Mask and the Chapters|II-09]])
 
 ## Threads
-- [[The Framing of Elias]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-08 The Framing of Elias]] — Thu 24 – Sat 26 July 1924

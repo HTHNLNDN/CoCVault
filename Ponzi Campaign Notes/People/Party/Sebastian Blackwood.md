@@ -38,10 +38,7 @@ tags: [person, pc, party]
 **On the [[Investigation Board]]:** Sebastian → "Dogs" (in Gloucester) · "Marriage".
 
 ## Threads
-- [[G-Man and Jeremiah's Debt]]
-- [[Operation Last Supper and the Gloucester Dogs]]
-- [[Sebastian the Marsh Heir]]
-- [[The Society Lady Who Wants TJ]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-10 A Slim Chance of Shady]] — Spring 1924 (Arkham)

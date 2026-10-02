@@ -21,7 +21,7 @@ tags: [person]
 - [[The Black]]
 
 ## Threads
-- [[Chase and Walter's Stolen Research]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

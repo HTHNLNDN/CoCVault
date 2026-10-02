@@ -22,8 +22,7 @@ tags: [place]
 - [[The Chapters (Mob)]] — Chapter 31: Innsmouth Gold
 
 ## Threads
-- [[Arthur's Innsmouth Task]]
-- [[Sebastian the Marsh Heir]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-23 In Insmuth]] — June–early July 1924

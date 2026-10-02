@@ -13,7 +13,7 @@ tags: [person]
 - Nobody home at Armitage's. ([[I-09 Eggventures of Chuckleberry Jim|I-09]])
 
 ## Threads
-- [[Who Stole the Bureau's Items]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-09 Eggventures of Chuckleberry Jim]] — Spring 1924 (Arkham)

@@ -17,7 +17,7 @@ tags: [mythos]
 - An order of [[Deep Ones]] serves Cthulhu; many under-water cities pray to Dagon. *(speculation: these are the Innsmouth fish people)* ([[II-16 The Cult of Cthulhu|II-16]])
 
 ## Threads
-- [[Sebastian the Marsh Heir]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-20 Fog of War]] — June 1924

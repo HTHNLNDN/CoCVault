@@ -19,7 +19,7 @@ tags: [item]
 - [[The Sleepers and the Dreamer]]
 
 ## Threads
-- [[What the Sleepers Want]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-12 The Forbidden Library]] — Wed 30 – Thu 31 July 1924

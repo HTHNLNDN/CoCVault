@@ -20,7 +20,7 @@ tags: [person]
 - [[The Asylum]]
 
 ## Threads
-- [[What the Sleepers Want]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-08 It's Just Jimmy]] — Spring 1924 (Arkham)
