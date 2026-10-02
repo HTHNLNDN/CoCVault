@@ -20,11 +20,8 @@ tags: [person]
 - [[Innsmouth Gold Coins]]
 - [[Vince (The Spider)]]
 
-
-
 ## Threads
-- [[Dover as the Thief]]
-- [[Who Stole the Bureau's Items]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-10 A Slim Chance of Shady]] — Spring 1924 (Arkham)

@@ -21,10 +21,8 @@ tags: [mythos]
 ## Sketches
 ![[a05-scroll-tenets.jpg|200]]
 
-
-
 ## Threads
-- [[Ponzi's Tattoos and the Sigils]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-06 The Cliffs of Dover]] — Spring 1924 (Arkham)

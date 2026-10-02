@@ -34,11 +34,8 @@ tags: [person]
 - [[The Magic Wardrobe]]
 - [[Jimmy's Vault]]
 
-
-
 ## Threads
-- [[The Bureau Entrance Exam]]
-- [[Ponzi's Hidden Skulls]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-07 The Cliffs are Dover]] — Spring 1924 (Arkham)

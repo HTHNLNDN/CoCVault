@@ -18,11 +18,10 @@ tags: [place]
 - Ponzi leaves a message on the narrator's bed; B. Fisher visits. ([[II-10 John, Shelly and Gloucester|II-10]])
 - The purification ritual. ([[II-11 The Purification|II-11]])
 - "Blackwood estate born and raised". ([[II-13 Fresh Fish of Marsh Heir|II-13]])
-
-
+- The dogs have left the estate. ([[II-14 The Gospels of the Dreamer|II-14]])
 
 ## Threads
-- [[Purify Ponzi's Wife and Child]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-22 Dog Water]] — June 1924
@@ -31,3 +30,4 @@ tags: [place]
 - [[II-09 Mortimer, the Mask and the Chapters]] — Sat 26 – Mon 28 July 1924
 - [[II-10 John, Shelly and Gloucester]] — Mon 28 July 1924 (cont.)
 - [[II-13 Fresh Fish of Marsh Heir]] — —
+- [[II-14 The Gospels of the Dreamer]] — Fri 1 August 1924

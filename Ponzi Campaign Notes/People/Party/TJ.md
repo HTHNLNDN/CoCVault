@@ -39,14 +39,8 @@ tags: [person, pc, party]
 - [[Maxwell Gibson]], [[Peterson]] — contacts
 - [[The Compass]] — carries it
 
-
-
 ## Threads
-- [[The Man Who Fell from the Sky]]
-- [[The Framing of Elias]]
-- [[The Society Lady Who Wants TJ]]
-- [[The Mob's Hunt for TJ]]
-- [[Maxwell Gibson's Death]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

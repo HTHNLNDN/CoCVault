@@ -25,12 +25,8 @@ tags: [person]
 - [[Gates]]
 - [[B. Fisher]]
 
-
-
 ## Threads
-- [[The Case against Arthur Wakefield]]
-- [[Who Killed Chief Luther]]
-- [[Why Gates Buried the Longarm Case]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

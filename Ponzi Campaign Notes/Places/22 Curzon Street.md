@@ -14,10 +14,8 @@ tags: [place]
 - Jack hides here. ([[I-10 A Slim Chance of Shady|I-10]])
 - The paradox; Jack found dead. ([[I-11 Apartmentdox|I-11]])
 
-
-
 ## Threads
-- [[Who Stole the Bureau's Items]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-10 A Slim Chance of Shady]] — Spring 1924 (Arkham)

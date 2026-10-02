@@ -15,10 +15,8 @@ tags: [item]
 - [[Innsmouth Gold Coins]]
 - [[The Chapters (Mob)]]
 
-
-
 ## Threads
-- [[Crystals, Eggs and the Gold Forge]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-24 The Last Straw]] — Early July 1924

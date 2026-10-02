@@ -25,10 +25,8 @@ tags: [item]
 - [[Hopkins]]
 - [[Ghouls (The Dogs)]]
 
-
-
 ## Threads
-- [[Ponzi's Hidden Skulls]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-18 Muddy Thoughts]] — June 1924

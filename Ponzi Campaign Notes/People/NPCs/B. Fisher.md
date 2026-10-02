@@ -23,10 +23,8 @@ tags: [person]
 - [[The Bureau]]
 - [[Jimmy]]
 
-
-
 ## Threads
-- [[Who Killed Chief Luther]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-03 Trouble in Texaxe]] — Spring 1924 (Arkham)

@@ -21,11 +21,13 @@ Spelling and grammar are kept as written (e.g. "Texaxe", "Insmuth", "The Chace")
 ## Sources
 - **Ponzi PDF** — *Mystery of the Ponzi Potion* (23 scans): Notebook I spreads 1–19, Ponzi's character sheet, and Notebook II pages 1–7. Scans: `scan-A01` … `scan-A23`.
 - **Notebook II PDF** (6 scans): Notebook II pages 8–19, including the Bible handout. Scans: `scan-B01` … `scan-B06`.
+- **August PDF** (2 scans): Notebook II entries for 1–4 August 1924. Scans: `scan-C01`, `scan-C02`.
 
 ## Sketches
 Every drawing, map and handout has been cropped out of the scans and cleaned up (paper whitened, ink darkened) into `Attachments/Sketches`. File names start with the scan they came from (`a05-…` = scan A05).
 
 ## Readings to double-check
 - **Rodrick** (I-01), **Barnton Street** (I-01), **Keeser** (I-07), **Mills Island** (I-18/19), **Oscar** (I-19), **Bently** (I-24), **Laurie** (II-08), **Selton Stall/Saltonstall** (II-08), **Tallulah** (II-07), **Flinn** (II-04), **Coarn, NY** (II-02), **the Never Man** (II-09): names are hard to read. Fix the note title and Obsidian updates every link.
+- **Madam Coral/Corel** (II-15), **Sathshohau** (II-15, probably Tsathoggua), **Banishment of Y'detat** (II-15, probably the rulebook's "Yde Etad"), **Asoteth** (II-16), and "raise" in "cannot themselves raise kids" (II-16).
 - "Albert" / "Alfred" Hackett — both spellings appear in I-15.
 - "Maxwell" (II-05) vs "Maxton" Gibson (the Investigation Board).

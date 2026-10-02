@@ -29,12 +29,8 @@ tags: [faction]
 ## Assets
 [[The Magic Wardrobe]] · [[Jimmy's Vault]] · [[Shelly's Facility]] · teleporter gates · [[Handout - Top Secret Archival Entry 407|Operation Last Supper]]
 
-
-
 ## Threads
-- [[The Bureau Entrance Exam]]
-- [[Why Gates Buried the Longarm Case]]
-- [[Where Ponzi Is]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-07 The Cliffs are Dover]] — Spring 1924 (Arkham)

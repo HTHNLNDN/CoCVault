@@ -20,11 +20,8 @@ tags: [person]
 - [[Catacombs under Corpus Christi]]
 - [[William Charles Ponzi]] — deal
 
-
-
 ## Threads
-- [[Ponzi's Hidden Skulls]]
-- [[Ponzi's Promise to Hopkins]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-21 Skulls 4 the Skull Throne]] — June 1924

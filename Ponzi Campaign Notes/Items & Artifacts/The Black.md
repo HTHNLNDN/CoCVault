@@ -26,12 +26,8 @@ tags: [item]
 - [[Paul Rodgers]]
 - [[The Chapters (Mob)]] — Chapter 30?
 
-
-
 ## Threads
-- [[How Arthur Died]]
-- [[Where the Black Comes From]]
-- [[Chase and Walter's Stolen Research]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

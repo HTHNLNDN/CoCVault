@@ -23,13 +23,8 @@ tags: [person]
 - [[The Chapters (Mob)]]
 - [[Saltonstall]]
 
-
-
 ## Threads
-- [[Identity of Mr. J]]
-- [[Mr. J is Long-Armed John]]
-- [[Identity of the Never Man]]
-- [[Saltonstall's Role]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

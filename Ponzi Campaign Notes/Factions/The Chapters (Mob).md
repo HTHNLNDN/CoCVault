@@ -34,13 +34,8 @@ tags: [faction]
 ## Known people
 [[Dallas]] · [[Long-Armed John]] · [[Mr. J]] · [[The Never Man]] · [[Saltonstall]] · [[Maxwell Gibson]]? · [[Elias]] (framed)
 
-
-
 ## Threads
-- [[Where the Black Comes From]]
-- [[Saltonstall's Role]]
-- [[The Mob's Hunt for TJ]]
-- [[Crystals, Eggs and the Gold Forge]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-03 Trouble in Texaxe]] — Spring 1924 (Arkham)

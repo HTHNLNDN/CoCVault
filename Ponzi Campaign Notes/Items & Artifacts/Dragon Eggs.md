@@ -17,11 +17,8 @@ tags: [item]
 - [[The Dragon (Byakhee)]]
 - [[Prismatic Crystals]]?
 
-
-
 ## Threads
-- [[The Carrington Vandalism]]
-- [[Crystals, Eggs and the Gold Forge]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-15 Carrington my Wayward Son]] — June 1924

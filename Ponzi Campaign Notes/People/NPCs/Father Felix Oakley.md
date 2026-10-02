@@ -26,10 +26,8 @@ tags: [person]
 - [[Sanctified Wax]]
 - [[Father Felix's Church]]
 
-
-
 ## Threads
-- [[Father Felix and the Angel]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-04 The Search for Ponzi]] — Mon 14 – Wed 17 July 1924

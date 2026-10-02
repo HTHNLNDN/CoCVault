@@ -15,10 +15,8 @@ tags: [item]
 
 **On the [[Investigation Board]]:** ELI → "The Shirt in the Desert".
 
-
-
 ## Threads
-- [[The Shirt's Curse]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-03 Little Bear and the Shirt]] — Thu 8[?] – Sun 13 July 1924

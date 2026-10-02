@@ -77,3 +77,13 @@ views:
       - file.name
       - note.state
       - note.status
+  - type: table
+    name: Threads linked here
+    filters:
+      and:
+        - 'type == "thread"'
+        - 'file.hasLink(this.file)'
+    order:
+      - file.name
+      - note.status
+      - note.last_update

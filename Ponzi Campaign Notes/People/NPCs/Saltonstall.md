@@ -18,10 +18,8 @@ tags: [person]
 - [[Dallas]]
 - [[The Chapters (Mob)]]
 
-
-
 ## Threads
-- [[Saltonstall's Role]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-08 The Framing of Elias]] — Thu 24 – Sat 26 July 1924

@@ -33,14 +33,8 @@ tags: [person]
 ## Sketches
 ![[b05-john-in-the-dungeon.jpg|200]]
 
-
-
 ## Threads
-- [[Why Gates Buried the Longarm Case]]
-- [[Identity of Mr. J]]
-- [[Mr. J is Long-Armed John]]
-- [[The Mob's Hunt for TJ]]
-- [[Long-Armed John's Return from the Dead]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-02 The Stakeout and the Case against Arthur Wakefield]] — Spring 1924 (Arkham) — fine due 31 May

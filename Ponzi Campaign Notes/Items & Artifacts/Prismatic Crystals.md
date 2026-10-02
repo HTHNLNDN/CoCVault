@@ -13,10 +13,8 @@ tags: [item]
 
 > [!question] Are these the same as the pearlescent [[Dragon Eggs]]? (I-19 is titled "Prismatic Shards".)
 
-
-
 ## Threads
-- [[Crystals, Eggs and the Gold Forge]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-24 The Last Straw]] — Early July 1924

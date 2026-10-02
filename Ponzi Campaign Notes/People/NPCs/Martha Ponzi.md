@@ -25,11 +25,8 @@ tags: [person]
 - [[Ponzi's Letter to Martha]]
 - [[Purifying Flame]]
 
-
-
 ## Threads
-- [[Purify Ponzi's Wife and Child]]
-- [[The Rotting Woman in Ponzi's House]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-07 The Cliffs are Dover]] — Spring 1924 (Arkham)

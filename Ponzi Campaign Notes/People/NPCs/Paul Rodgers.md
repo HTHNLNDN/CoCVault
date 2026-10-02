@@ -19,11 +19,8 @@ tags: [person]
 - [[The Black]]
 - [[The University (Arkham)]]
 
-
-
 ## Threads
-- [[The Case against Arthur Wakefield]]
-- [[Where the Black Comes From]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-01 Mystery of the Ponzi Potion]] — Spring 1924 (Arkham)

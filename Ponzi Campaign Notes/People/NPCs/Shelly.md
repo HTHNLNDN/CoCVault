@@ -20,10 +20,8 @@ tags: [person]
 
 **On the [[Investigation Board]]:** "Maxton Gibson" is linked to "@Shelly".
 
-
-
 ## Threads
-- [[Long-Armed John's Return from the Dead]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-02 The Jersey Devil]] — Mon 7 July 1924

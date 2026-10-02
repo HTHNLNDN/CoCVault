@@ -13,7 +13,7 @@ tags: [journal, notebook-II, verse]
 > A comic verse told from [[Sebastian Blackwood]]'s point of view, recapping his trip to [[Innsmouth]]: raised on the [[Blackwood Estate]], a sister who "went to the moon", [[Jimmy]] sending him off with one little coin, the sabotaged car, a mob chase, a 9-foot octopus blown to pieces, and a church chant that makes him "the fresh fish and the Marsh heir".
 > Links: [[I-23 In Insmuth]], [[I-24 The Last Straw]], [[I-25 Dreamers Abound]], [[Fish People]].
 
-← [[II-12 The Forbidden Library]] · Back to → [[00 Campaign Home|Home]]
+← [[II-12 The Forbidden Library]] · Next → [[II-14 The Gospels of the Dreamer]]
 
 ## Transcript
 Now this is a story, all about how, when[?] went to Innsmouth turned upside down.
@@ -25,7 +25,7 @@ Scheming, preening, breaking the rules. Wondering why my sister went to the moon
 When a couple of guys who were up to no good, dragged me off to the poor neighborhood.
 I got one little coin, and [[Jimmy]] said "you're going to [[Innsmouth]] or it will be the end of your days".
 
-So I took my crew and my car drove for a day, went to a shop, and the car broke in a suspicious way. → [[The Innsmouth Shop Lady]]
+So I took my crew and my car drove for a day, went to a shop, and the car broke in a suspicious way. → [[Madam Coral]]
 Got a hint and went to the hotel room. Found myself chased by a mob "is this my doom?".
 
 Chased around by an eldritch creature. Got into a basement with some weird stone feature.

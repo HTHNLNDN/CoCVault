@@ -12,10 +12,8 @@ tags: [place]
 - Little Bear's instruction; TJ's dreams. ([[II-03 Little Bear and the Shirt|II-03]])
 - Nightmare of shadowy men chasing across it. ([[II-08 The Framing of Elias|II-08]])
 
-
-
 ## Threads
-- [[The Shirt's Curse]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-03 Little Bear and the Shirt]] — Thu 8[?] – Sun 13 July 1924

@@ -14,10 +14,8 @@ tags: [place]
 ## Connections
 - [[Innsmouth Gold Coins]]
 
-
-
 ## Threads
-- [[Recover the Stolen Greek Text and Coins]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[I-09 Eggventures of Chuckleberry Jim]] — Spring 1924 (Arkham)

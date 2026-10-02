@@ -12,10 +12,8 @@ tags: [place]
 - Drive to New Jersey. ([[II-01 The Meeting|II-01]])
 - Helga, the hanging hunters, the devil's cave. ([[II-02 The Jersey Devil|II-02]])
 
-
-
 ## Threads
-- [[The Jersey Devil Hunt]]
+![[Case Board.base#Threads linked here]]
 
 ## Appears in
 - [[II-01 The Meeting]] — Fri 4 – Sun 6 July 1924

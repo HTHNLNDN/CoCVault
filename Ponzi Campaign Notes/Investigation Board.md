@@ -25,4 +25,4 @@ Hand-drawn mind map on the last spread of Notebook I, drawn in the Notebook II e
 ![[scan-A19.jpg]]
 
 ## Threads
-- [[Sebastian the Marsh Heir]]
+![[Case Board.base#Threads linked here]]
